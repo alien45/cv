@@ -50,12 +50,12 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 
 - Sole developer for entire frontend & off-chain backend system  
 - Built full SPA with modules like:  
-  - In-app wallet, partner management, tasks, activities, timekeeping  
-  - Marketplace with task bidding & automated payouts  
-  - Rewards engine with social + feature usage incentives  
-  - In-app chat (user-to-user, group, Discord-bridged support)  
-  - Getting Started flow with faucet, backup/restore logic  
-  - Financial statement viewer built on enterprise-grade accounting engine  
+    - In-app wallet, partner management, tasks, activities, timekeeping  
+    - Marketplace with task bidding & automated payouts  
+    - Rewards engine with social + feature usage incentives  
+    - In-app chat (user-to-user, group, Discord-bridged support)  
+    - Getting Started flow with faucet, backup/restore logic  
+    - Financial statement viewer built on enterprise-grade accounting engine  
 - Developed custom queue system for sequential on/off-chain operations with resumability  
 - Designed BONSAI (Blockchainization of NoSQL Storage Authorization & Identification): a dual on-chain/off-chain proof system using hash anchoring and token verification  
 - Built faucet microservice and Kapex Polkadot Crowdloan DApp  
