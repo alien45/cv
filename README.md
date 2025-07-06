@@ -2,10 +2,10 @@
 <!-- Header block will be replaced by PDF generation script (.github/scripts/md_to_pdf.py). Make sure to keep both the script and this file update to date with contact details -->
 # Toufiqur R. Chowdhury
   
-📫 **Contact:** Please see [PDF](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf) for full contact details.
+📫 **Contact:** Please see [PDF](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf) for full contact details.  
 📍 **Location:** Antalya, Turkiye  
-🔗 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)
-💻 **GitHub:** [github.com/alien45](https://github.com/alien45)
+🔗 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
+💻 **GitHub:** [github.com/alien45](https://github.com/alien45)  
 <!-- PDF-IGNORE-END -->
 
 ---
