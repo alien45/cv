@@ -1,37 +1,42 @@
+name: Generate PDF from README
+
 on:
   push:
     branches:
       - main
     paths-ignore:
-      - Toufiqur_Chowdhury_CV.pdf  # ignore when only this file changes
-
-  workflow_dispatch:  # still allow manual trigger
+      - Toufiqur_Chowdhury_CV.pdf  # Prevents loop on PDF commit
+  workflow_dispatch:  # Allows manual runs
 
 jobs:
-  build:
+  generate-pdf:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install markdown-to-pdf
         run: |
-          pip install markdown weasyprint pygments
+          pip install markdown markdown2 weasyprint
 
       - name: Convert README.md to PDF
         run: |
-          python .github/scripts/md_to_pdf.py
+          python .github/scripts/generate_pdf.py
 
-      - name: Commit PDF
+      - name: Commit and push PDF
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add Toufiqur_Chowdhury_CV.pdf
+
+          # Only commit if PDF has changed
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+
           git commit -m "Auto-generate PDF from README"
-          git push
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
