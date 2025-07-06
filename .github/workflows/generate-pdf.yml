@@ -1,12 +1,10 @@
-name: Generate PDF from README
+name: Generate PDF
 
 on:
   push:
-    branches:
-      - main
-    paths-ignore:
-      - Toufiqur_Chowdhury_CV.pdf  # Prevents loop on PDF commit
-  workflow_dispatch:  # Allows manual runs
+    branches: [main]
+    paths: ["README.md", ".github/scripts/**"]
+  workflow_dispatch:
 
 jobs:
   generate-pdf:
@@ -14,37 +12,28 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: 3.x
 
-      - name: Install markdown-to-pdf
-        run: |
-          pip install markdown markdown2 weasyprint
+      - name: Install requirements
+        run: pip install markdown markdown2 pdfkit
 
-      - name: Convert README.md to PDF
-        run: |
-          python .github/scripts/md_to_pdf.py
+      - name: Generate PDF
+        run: python .github/scripts/md_to_pdf.py
 
-      - name: Commit and push PDF
+      - name: Overwrite origin with PAT-authenticated remote
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/alien45/cv.git
           git add Toufiqur_Chowdhury_CV.pdf
 
           # Only commit if PDF has changed
           git diff --cached --quiet && echo "No changes to commit." && exit 0
 
           git commit -m "Auto-generate PDF from README"
-
-          # Print to check if remote is correct
-          git remote -v
-          
-          # Push the commit using access token
-          # git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
-          
-          # Push using token-based remote explicitly
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/alien45/cv.git HEAD:main
+          git push origin HEAD:main
