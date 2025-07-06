@@ -39,5 +39,12 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit." && exit 0
 
           git commit -m "Auto-generate PDF from README"
+
+          # Print to check if remote is correct
+          git remote -v
+          
           # Push the commit using access token
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          # git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          
+          # Push using token-based remote explicitly
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/alien45/cv.git HEAD:main
