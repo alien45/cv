@@ -1,3 +1,6 @@
-# Toufiqur R. Chowdhury
-
-📧 Email: [htr.letun@gmail.com](mailto:htr.letun@gmail.com) | 📱 Phone: [+90 535 508 6931](tel:+905355086931)  | 💻 [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq) | 💻 [github.com/alien45](https://github.com/alien45)
+<center>
+<h1>Toufiqur R. Chowdhury</h1>
+📧 <a href="mailto:htr.letun@gmail.com">htr.letun@gmail.com</a> | 📱 <a href="tel:+905355086931">+905355086931</a> | 🌍 Antalya, Turkiye  
+ 
+ 💻 <a href="https://linkedin.com/in/toufiq">linkedin.com/in/toufiq</a> | 💻 <a href="https://github.com/alien45">github.com/alien45</a>
+</center>

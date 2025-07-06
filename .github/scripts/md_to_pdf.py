@@ -10,6 +10,9 @@ with open("pdf_header.md", "r", encoding="utf-8") as f:
 with open("pdf_footer.md", "r", encoding="utf-8") as f:
     pdf_footer = f.read().strip()
 
+# Replace {{DATE}} placeholder with current UTC date
+pdf_footer = pdf_footer.replace("{{DATE}}", datetime.utcnow().strftime("%Y-%m-%d"))
+
 # Load README content
 with open("README.md", "r", encoding="utf-8") as f:
     md_content = f.read()
@@ -22,24 +25,24 @@ md_content = re.sub(
     flags=re.DOTALL
 )
 
-# Remove single-line ignore lines
+# Remove single-line ignores
 md_content = "\n".join(
     line for line in md_content.splitlines()
     if "<!-- PDF-IGNORE -->" not in line
 )
 
-# Build full Markdown content
+# Combine everything
 full_markdown = "\n\n".join([
     pdf_header,
     md_content.strip(),
     "---",
-    pdf_footer + f"\n\n_Last updated: {datetime.utcnow().strftime('%Y-%m-%d')} UTC_"
+    pdf_footer
 ])
 
 # Convert to HTML
 html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tables"])
 
-# Style — slightly reduced top padding for first page
+# Styling
 style = """
 <style>
   @page {
@@ -85,6 +88,6 @@ style = """
 </style>
 """
 
-# Wrap in HTML and export to PDF
+# Export to PDF
 html_page = f"<!DOCTYPE html><html><head>{style}</head><body>{html_content}</body></html>"
 HTML(string=html_page).write_pdf("Toufiqur_Chowdhury_CV.pdf")
