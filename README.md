@@ -1,11 +1,3 @@
-<style>
-  body {
-    padding-left: 50px;
-    padding-right: 50px;
-    max-width: 900px;
-    margin: auto;
-  }
-</style>
 <!-- PDF-IGNORE-START -->
 <!-- Header block will be replaced by PDF generation script (.github/scripts/md_to_pdf.py). Make sure to keep both the script and this file update to date with contact details -->
 # Toufiqur R. Chowdhury
@@ -153,3 +145,17 @@ Available on request
 ---
 **License:** [Creative Commons Zero v1.0 Universal
 ](https://alien45.github.io/cv/LICENSE)
+
+---
+
+<!-- PDF-IGNORE-START -->
+<!-- padding for GitHub pages only -->
+<style>
+  body {
+    padding-left: 50px;
+    padding-right: 50px;
+    max-width: 900px;
+    margin: auto;
+  }
+</style>
+<!-- PDF-IGNORE-END -->
