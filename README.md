@@ -1,3 +1,11 @@
+<style>
+  body {
+    padding-left: 50px;
+    padding-right: 50px;
+    max-width: 900px;
+    margin: auto;
+  }
+</style>
 <!-- PDF-IGNORE-START -->
 <!-- Header block will be replaced by PDF generation script (.github/scripts/md_to_pdf.py). Make sure to keep both the script and this file update to date with contact details -->
 # Toufiqur R. Chowdhury
