@@ -13,7 +13,7 @@
 ## SUMMARY
 
 <p style="text-align: justify;">
-Full-stack developer with **8+ years** of experience building robust web apps, tools, and decentralized platforms. Led the design and development of both frontend and backend systems, primarily in React, Node.js, and Web3 tech. As co-founder of Totem Live Accounting, handled the full off-chain architecture and implementation. An adaptable engineer who quickly picks up new tools and ecosystems — from Python and Golang to modern frontend stacks like AngularJS and React — and delivers production-ready results.
+Full-stack developer with <b>8+ years</b> of experience building robust web apps, tools, and decentralized platforms. Led the design and development of both frontend and backend systems, primarily in React, Node.js, and Web3 tech. As co-founder of Totem Live Accounting, handled the full off-chain architecture and implementation. An adaptable engineer who quickly picks up new tools and ecosystems, from Python and Golang to modern frontend stacks like AngularJS and React, and delivers production-ready results.
 </p>
 
 

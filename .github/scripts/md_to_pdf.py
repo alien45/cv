@@ -58,6 +58,9 @@ style = """
     color: #2c3e50;
     margin-top: 1.4em;
   }
+  body > h1:first-child {
+    margin-top: 0.2em;
+  }
   a {
     color: #0366d6;
     text-decoration: none;
