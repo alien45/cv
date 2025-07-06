@@ -1,9 +1,11 @@
-name: Generate PDF from README
-
 on:
   push:
-    branches: [main]
-    paths: ["README.md"]
+    branches:
+      - main
+    paths-ignore:
+      - Toufiqur_Chowdhury_CV.pdf  # ignore when only this file changes
+
+  workflow_dispatch:  # still allow manual trigger
 
 jobs:
   build:
