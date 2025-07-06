@@ -157,5 +157,14 @@ Available on request
     max-width: 900px;
     margin: auto;
   }
+
+  /* Hide redundant GH page header derived from _config.yml */
+  header.site-header {
+    display: none;
+  }
+
+  h1.project-title {
+    display: none;
+  }
 </style>
 <!-- PDF-IGNORE-END -->
