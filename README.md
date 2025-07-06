@@ -17,8 +17,6 @@ Full-stack developer with <b>8+ years</b> of experience building robust web apps
 </p>
 
 
----
-
 ## TECHNICAL SKILLS
 
 **Languages:** JavaScript, TypeScript, Python, Go, C#, PHP  
@@ -28,7 +26,6 @@ Full-stack developer with <b>8+ years</b> of experience building robust web apps
 **Tools:** Docker, Firebase, WebSockets, RxJS, Git, GulpJS, RabbitMQ  
 **Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile
 
----
 
 ## EXPERIENCE
 
@@ -40,7 +37,6 @@ Tech: React, TypeScript, Zod, Python, FastAPI, Redis, Postgres
 - Learned Python on the job to contribute across full-stack  
 - Role currently on hold — open to exciting new opportunities.  
 
----
 
 ### **[Totem Live Accounting](https://totemaccounting.com) (Remote, Switzerland) — Co-founder & Lead Developer**  
 **Mar 2019 – Mar 2024**  
@@ -79,7 +75,6 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
  [Common Utils](https://gitlab.com/totem-tech/common-utils)
  and [other repos](https://gitlab.com/totem-tech)  
 
----
 
 ### **Omniscape (Remote, US) — Tokenization Developer**  
 **May 2021 – Jan 2022**  
@@ -91,15 +86,12 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 - Built a NodeJS microservice for queueing & automation of Web3 payment transactions and randomization of rewards for campaign events.  
 
 
----
-
 ### **Freelance & Open Source Developer**  
 2017 - Present  
 - Developed [Halo Info Bot](https://github.com/alien45/halo-info-bot) (AKA Halo Butler), a Discord command based chatbot, in Go for Halo Platform Blockchain, masternode and DEX  
 - Developed [HaloDEX data feed server](https://github.com/alien45/halodex-chart-feed) for TradingView charting library in Go  
 - Developed [Cloud Connector](https://github.com/alien45/cloud-connector) for connecting to MS Azure, GCP and AWS S3 buckets  
 
----
 
 ### **The Summit Group (Melbourne, AU) — Full Stack Developer**  
 **Apr 2016 – Apr 2017**  
@@ -108,7 +100,6 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 - Backend API & microservices built in Go, MySQL & RabbitMQ  
 - Created automation tools in Go for parsing, formatting and storing telecom provider billing data  
 
----
 
 ### **Web123 Pty Ltd (Melbourne, AU) — Full Stack Developer**  
 **Jul 2015 – Mar 2016**  
@@ -116,35 +107,29 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 - Backend API, schema work and unit testing  
 - Turned designs into working responsive websites  
 
----
 
 ### **Easyweb Digital (Melbourne, AU) — Systems Developer**  
 **Sep – Dec 2014**  
 - Backbone.js component development  
 - UI/UX components using Bootstrap and Underscore  
 
----
 
 ## EDUCATION
 
 **BEng Software Engineering (First Class Hons)**  
 University of Greenwich, London, UK (2011–2014)  
 
----
 
 ## CERTIFICATIONS
 
 - **Red Hat Certified Engineer (RHCE)** — 91.2% test score
 - **Apps for Good** – Entrepreneurship, Facebook Apps development, MVP project & presentation at Facebook London Office
 
----
 
 ## LANGUAGES
 
-- English: Fluent
-- Bangla: Native
+**English:** Fluent | **Bangla**: Native
 
----
 
 ## REFERENCES
 
@@ -167,6 +152,11 @@ Available on request
       padding-left: 50px;
       padding-right: 50px;
     }
+  }
+
+  .markdown-body h1 {
+    border: none;
+    margin-bottom: 0;
   }
  </style>
 <!-- PDF-IGNORE-END -->
