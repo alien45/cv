@@ -19,8 +19,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install requirements
-        run: pip install markdown markdown2 pdfkit
+      - name: Install dependencies
+        run: |
+            sudo apt-get update
+            sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 libpangocairo-1.0-0 libcairo2
+            pip install weasyprint markdown markdown2 pdfkit
 
       - name: Generate PDF
         run: python .github/scripts/md_to_pdf.py
