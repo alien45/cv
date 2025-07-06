@@ -46,20 +46,21 @@ html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tabl
 style = """
 <style>
   @page {
-    margin: 25mm 20mm;
+    margin: 20mm 15mm;
   }
   body {
     font-family: sans-serif;
     padding: 0;
-    max-width: 800px;
+    max-width: 850px;
     margin: 0 auto;
   }
   h1, h2, h3 {
     color: #2c3e50;
-    margin-top: 1.4em;
+    margin: 1em 0 0.5em 0;
+    font-weight: normal;
   }
-  body > h1:first-child {
-    margin-top: 0.2em;
+  h1 {
+    margin-top: -1em;
   }
   a {
     color: #0366d6;
