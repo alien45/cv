@@ -1,10 +1,9 @@
 # Toufiqur R. Chowdhury
-
-**Email:** htr.letun@gmail.com  
+  
 **Location:** Antalya, Turkiye  
-**Phone:** +90 535 508 6931  
 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
 **GitHub:** [github.com/alien45](https://github.com/alien45)
+📫 **Contact:** Please see [PDF](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf) for full contact details.
 
 ---
 
@@ -33,7 +32,7 @@ Adaptable engineer who quickly picks up new tools and ecosystems — from Python
 ### **Nextion (Remote, US) — Full Stack Developer**  
 **Feb 2025 – Present**  
 Tech: React, TypeScript, Zod, Python, FastAPI, Redis, Postgres  
-- Developed a trade approval and execution UI integrated with Redis-based quant order system  
+- Developed a trade approval, execution and monitoring UI integrated with Redis-based quant order system  
 - Extended and completed backend APIs in Python using FastAPI  
 - Learned Python on the job to contribute across full-stack  
 - Role currently on hold — open to exciting new opportunities.
@@ -139,3 +138,7 @@ University of Greenwich, London, UK (2011–2014)
 ## REFERENCES
 
 Available on request
+
+---
+**License:** [Creative Commons Zero v1.0 Universal
+](https://alien45.github.io/cv/LICENSE)
