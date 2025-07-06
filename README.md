@@ -3,8 +3,8 @@
 # Toufiqur R. Chowdhury
   
 📫 **Contact:** Please see [PDF](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf) for full contact details.  
-📍 **Location:** Antalya, Turkiye  
-🔗 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
+🌍 **Location:** Antalya, Turkiye  
+💻 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
 💻 **GitHub:** [github.com/alien45](https://github.com/alien45)  
 <!-- PDF-IGNORE-END -->
 
@@ -42,7 +42,7 @@ Tech: React, TypeScript, Zod, Python, FastAPI, Redis, Postgres
 
 ---
 
-### **Totem Live Accounting (Remote, Switzerland) — Co-founder & Lead Developer**  
+### **[Totem Live Accounting](https://totemaccounting.com) (Remote, Switzerland) — Co-founder & Lead Developer**  
 **Mar 2019 – Mar 2024**  
 Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 
@@ -58,18 +58,24 @@ Tech: React, Node.js, CouchDB, Polkadot.js, WebSockets, Material UI, JavaScript
 - Developed custom queue system for sequential on/off-chain operations with resumability
 - Designed BONSAI (Blockchainization of NoSQL Storage Authorization & Identification): a dual on-chain/off-chain proof system using hash anchoring and token verification
 - Built faucet microservice and Kapex Polkadot Crowdloan DApp
-- Developed reusable component libraries (`common-utils`): RxJS hooks (`useRxSubject`, etc), validation, data tables, printing, reactive storage
+- Built reusable component library `common-utils`: Reactive hooks, components, DataTable, FormBuilder, JSON/LocalStorage helper etc using RxJS, CouchDB helper class, data validation library
+- Developed the [Totem Live Accounting](https://totemaccounting.com/) homepage
 
 **Community Contributions:**
 - Managed Telegram and Twitter in multiple languages (using translators)
 - Created and ran the Totem Ambassador Program
 - Provided user support, authored onboarding documentation, and led feature walk-throughs
 
-🎥 [Watch product tutorial video](https://youtu.be/29rViB0SFhA)
+**Product Demo/Tutorial Videos:**
+<a href="https://youtu.be/29rViB0SFhA" title="A walk-through of some of the core features while demoing rewards claim process">Totem.Live DApp</a> 
+ | <a href="https://youtu.be/qBLskkm0iDk?si=69hBxExTlMDfqZYh&t=61" title="Walk-through of how to contribute to the Totem Crowdloan on Polkadot Relaychain">Crownload DApp</a> 
+ | <a href="https://www.youtube.com/live/pryr8DmVMlM?si=sKsGoO7CnRgpJ6mw&t=3080" title="Totem founder Chris D'Costa demoing the tasks module, financial statement and on-chain accounting engine at the Parity & Friends podcast">Accounting Demo</a>  
 
-**Open Source:**
-- [Totem UI](https://gitlab.com/totem-tech/totem-ui)  
-- [Totem Message Service](https://gitlab.com/totem-tech/totem-message-service)
+**Open Source:** 
+ [Totem UI](https://gitlab.com/totem-tech/totem-ui), 
+ [Message Service](https://gitlab.com/totem-tech/totem-message-service), 
+ [Common Utils](https://gitlab.com/totem-tech/common-utils)
+ and [other repos](https://gitlab.com/totem-tech)
 
 ---
 
@@ -142,29 +148,23 @@ University of Greenwich, London, UK (2011–2014)
 
 Available on request
 
----
-**License:** [Creative Commons Zero v1.0 Universal
-](https://alien45.github.io/cv/LICENSE)
-
----
-
 <!-- PDF-IGNORE-START -->
+---
+**License:** [Creative Commons Zero v1.0 Universal](https://alien45.github.io/cv/LICENSE)
+
 <!-- padding for GitHub pages only -->
 <style>
   body {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
     max-width: 900px;
     margin: auto;
   }
-
-  /* Hide redundant GH page header derived from _config.yml */
-  header.site-header {
-    display: none;
+  @media (min-width: 601px) {
+    body {
+      padding-left: 50px;
+      padding-right: 50px;
+    }
   }
-
-  h1.project-title {
-    display: none;
-  }
-</style>
+ </style>
 <!-- PDF-IGNORE-END -->
