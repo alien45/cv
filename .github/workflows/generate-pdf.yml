@@ -27,7 +27,7 @@ jobs:
 
       - name: Convert README.md to PDF
         run: |
-          python .github/scripts/generate_pdf.py
+          python .github/scripts/md_to_pdf.py
 
       - name: Commit and push PDF
         run: |
