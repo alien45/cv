@@ -97,16 +97,16 @@ style = """
   }
   ul {
     list-style-type: disc;
-    margin-left: 0.5em;
+    margin-left: 1em;
     margin-bottom: 0.5em;
   }
   ul ul {
     list-style-type: disc;
-    margin-left: 1em;
+    margin-left: 1.5em;
   }
   ul ul ul {
     list-style-type: disc;
-    margin-left: 1.5em;
+    margin-left: 2em;
   }
   li {
     margin-bottom: 0.2em;
