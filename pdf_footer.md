@@ -1,6 +1,4 @@
 
----
-
 **Languages:** English (Fluent) | Bangla (Native)  
 **References:** Available on request. See [Linkedin Recommendations](https://linkedin.com/in/toufiq)
 
