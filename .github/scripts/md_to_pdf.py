@@ -40,7 +40,11 @@ full_markdown = "\n\n".join([
 ])
 
 # Convert to HTML
-html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tables"])
+# html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tables"])
+html_content = markdown.markdown(
+    full_markdown,
+    extensions=["fenced_code", "tables", "sane_lists"]
+)
 
 # Styling
 style = """
@@ -93,15 +97,20 @@ style = """
     text-align: left;
   }
   ul {
-    margin-left: 0.75em;
+    list-style-type: disc;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
   }
   ul ul {
-    margin-left: 1.25em;
+    list-style-type: disc;
+    margin-left: 1em;
   }
-  ul,
-  ul ul,
   ul ul ul {
-    list-style-type: circle;
+    list-style-type: disc;
+    margin-left: 1.5em;
+  }
+  li {
+    margin-bottom: 0.2em;
   }
 </style>
 """
