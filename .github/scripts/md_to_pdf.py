@@ -35,16 +35,15 @@ md_content = "\n".join(
 full_markdown = "\n\n".join([
     pdf_header,
     md_content.strip(),
-    "---",
     pdf_footer
 ])
 
 # Convert to HTML
-# html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tables"])
-html_content = markdown.markdown(
-    full_markdown,
-    extensions=["fenced_code", "tables", "sane_lists"]
-)
+html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tables"])
+# html_content = markdown.markdown(
+#     full_markdown,
+#     extensions=["fenced_code", "tables", "sane_lists"]
+# )
 
 # Styling
 style = """
