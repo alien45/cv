@@ -89,6 +89,17 @@ style = """
     padding: 6px 10px;
     text-align: left;
   }
+  ul {
+    margin-left: 0.75em;
+  }
+  ul ul {
+    margin-left: 1.25em;
+  }
+  ul,
+  ul ul,
+  ul ul ul {
+    list-style-type: circle;
+  }
 </style>
 """
 
