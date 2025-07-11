@@ -62,6 +62,12 @@ style = """
   h1 {
     margin-top: -1em;
   }
+  h2 {
+    margin: 0.5em 0 0.25em;
+  }
+  h3 {
+    margin: 0.25em 0 0.125em;
+  }
   a {
     color: #0366d6;
     text-decoration: none;
@@ -70,9 +76,6 @@ style = """
     background: #f6f8fa;
     padding: 2px 4px;
     font-size: 90%;
-  }
-  ul, ol {
-    margin-left: 1.5em;
   }
   pre {
     background: #f0f0f0;
