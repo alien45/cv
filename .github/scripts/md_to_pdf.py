@@ -66,10 +66,10 @@ style = """
     margin-top: -1em;
   }
   h2 {
-    margin: 0.25em 0 0.25em;
+    margin: 0.75em 0 0.25em;
   }
   h3 {
-    margin: 0.25em 0 0.125em;
+    margin: 0.5em 0 0.125em;
   }
   a {
     color: #0366d6;
@@ -102,11 +102,11 @@ style = """
   }
   ul ul {
     list-style-type: disc;
-    margin-left: 1em;
+    margin-left: 0.75em;
   }
   ul ul ul {
     list-style-type: disc;
-    margin-left: 1.5em;
+    margin-left: 5em;
   }
   li {
     margin-bottom: 0.2em;
