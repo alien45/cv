@@ -66,7 +66,7 @@ style = """
     margin-top: -1em;
   }
   h2 {
-    margin: 0.5em 0 0.25em;
+    margin: 0.25em 0 0.25em;
   }
   h3 {
     margin: 0.25em 0 0.125em;
@@ -97,16 +97,16 @@ style = """
   }
   ul {
     list-style-type: disc;
-    margin-left: 1em;
+    margin-left: 0.5em;
     margin-bottom: 0.5em;
   }
   ul ul {
     list-style-type: disc;
-    margin-left: 1.5em;
+    margin-left: 1em;
   }
   ul ul ul {
     list-style-type: disc;
-    margin-left: 2em;
+    margin-left: 1.5em;
   }
   li {
     margin-bottom: 0.2em;

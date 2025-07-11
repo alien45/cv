@@ -17,17 +17,17 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 </p>
 
 
-## Technical Skills
+## Technical Skills  
 
-**Languages:** JavaScript, TypeScript, Python, Go, C#, PHP  
+**Languages:** JavaScript, TypeScript, Python, Go, C#, PHP    
 **Frontend:** React, Tanstack Table, React Hook Form, AngularJS, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap  
-**Backend:** Node.js, FastAPI, Express.js, Golang, Redis, Postgres, CouchDB, TweetNaCl.js 
+**Backend:** Node.js, FastAPI, Express.js, Golang, Redis, Postgres, CouchDB, TweetNaCl.js  
 **Blockchain:** Polkadot/Substrate, Web3.js, Polkadot.js, NFT, BONSAI verification, DApps  
 **Tools:** Vite, Docker, Firebase, WebSockets, RxJS, Git, GulpJS, RabbitMQ  
-**Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile
+**Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile  
 
 
-## Experience
+## Experience  
 
 ### Nextion (Remote, US) - Full Stack Developer  
 
@@ -36,9 +36,9 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 **Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis  
 
 - Developed a trade approval, execution and monitoring UI integrated with Redis-based quant order system and executed using Interactive Brokers (IB) gateway  
-- Fast-tracked learning Python using AI to ship FastAPI-based backend with Dockerized Postgres
+- Fast-tracked learning Python using AI to ship FastAPI-based backend with Dockerized Postgres  
 - Engineered automated audit log system in Postgres, displayed via UI  
-- Supported performance analysis by exposing real-time backend services metrics and trade execution states
+- Supported performance analysis by exposing real-time backend services metrics and trade execution states  
 
 
 ### [Totem Live Accounting](https://totemaccounting.com) (Remote, CH) - Co-founder & Lead Developer  
@@ -52,11 +52,11 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Sole developer for entire frontend & off-chain backend system  
 
 - Produced full SPA with modules like:  
-  - In-app wallet, partner management, timekeeping, and rewards  
-  - Marketplace with proposal submission & approval and automated payouts on completion  
-  - Integrated chat, Discord support, onboarding flow, and financial statement viewer  
-  - Streamlined user onboarding flow with signup, faucet, backup and diff-aware selective restore system  
-  - Financial statement viewer using Totem's enterprise-grade accounting engine  
+    - In-app wallet, partner management, timekeeping, and rewards  
+    - Marketplace with proposal submission & approval and automated payouts on completion  
+    - Integrated chat, Discord support, onboarding flow, and financial statement viewer  
+    - Streamlined user onboarding flow with signup, faucet, backup and diff-aware selective restore system  
+    - Financial statement viewer using Totem's enterprise-grade accounting engine  
 - Engineered a sequential & resumable on/off-chain transaction queue with UI-based history for debugging and transparency  
 - Co-designed and implemented <a title="Blockchainization of NoSQL Storage Authorization & Identification">BONSAI</a>, an innovative dual on/off-chain proof system using hash anchoring and token-based verification  
 - Launched the Crowdloan & Pledge DApp, enabling users to participate in the Kapex (Polkadot) crowdloan and crowdfund the team - raising $1+M and $83.6K respectively  
@@ -125,7 +125,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Turned designs into working responsive websites  
 
 
-### Easyweb Digital (Melbourne, AU) - Systems Developer 
+### Easyweb Digital (Melbourne, AU) - Systems Developer  
 
 **Sep – Dec 2014**  
 
@@ -133,7 +133,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - UI/UX components using Bootstrap and Underscore  
 
 
-## Education    
+## Education  
 
 **BEng Software Engineering (First Class Hons)**  
 University of Greenwich, London, UK (2011–2014)  
@@ -148,7 +148,8 @@ University of Greenwich, London, UK (2011–2014)
 <!-- PDF-IGNORE-START -->
 <!-- Languages and References on PDF will be taken from the pdf_footer.md file-->
 ## Languages:  
-**English:** Fluent | **Bangla**: Native
+**English:** Fluent  
+**Bangla**: Native  
 
 
 ## References  
