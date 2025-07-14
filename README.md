@@ -220,8 +220,8 @@ Available on request
 >It's been incredibly rewarding to see Toufiqur grow over the years. I can confidently and wholeheartedly recommend him for any role."
 > 
 > **- Satwant Signh Kenth**, Co-Founder @ Omniscape
+<!-- PDF-IGNORE-START -->
 
-<!-- PDF-IGNORE-END -->
 See [Linkedin Recommendations](https://linkedin.com/in/toufiq)  
 
 ---
@@ -243,14 +243,13 @@ See [Linkedin Recommendations](https://linkedin.com/in/toufiq)
 
   .inline-block { display: inline-block}
 
-  .width-33p { max-width: 33%; }
+  .width-33p { width: calc( 33% - 1px ); }
 
   .gallery-image-bg {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     min-height: 240px;
-    min-width: 33%;
   }
 
   .video { position: relative; }
@@ -269,9 +268,7 @@ See [Linkedin Recommendations](https://linkedin.com/in/toufiq)
       padding-left: 50px;
       padding-right: 50px;
     }
-    .video:not(:hover)::before {
-      display: none;
-    }
+    .video:not(:hover)::before { display: none; }
   }
 
   @media (max-width: 600px) {
@@ -282,4 +279,4 @@ See [Linkedin Recommendations](https://linkedin.com/in/toufiq)
     }
   }
  </style>
-<!-- PDF-IGNORE-END -->
+<!-- PDF-IGNORE-END -->  

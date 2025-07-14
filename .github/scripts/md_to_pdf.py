@@ -49,7 +49,7 @@ html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tabl
 style = """
 <style>
   @page {
-    margin: 20mm 15mm;
+    margin: 15mm 15mm;
   }
   body {
     font-family: sans-serif;
