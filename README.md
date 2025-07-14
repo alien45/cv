@@ -163,7 +163,6 @@ University of Greenwich, London, UK (2011–2014)
 ## Certifications  
 
 - **Red Hat Certified Engineer (RHCE)** - 91.2% test score  
-- **Apps for Good** – Entrepreneurship, Facebook Apps development, MVP project & presentation at Facebook London Office  
 - **[Apps for Good](https://www.appsforgood.org/)** - MVP development, team leadership, and final presentation at Facebook London HQ. Sponsored by Facebook & others.<!-- PDF-IGNORE-START -->
   - Met entrepreneurs including then Managing Director (Europe) of LinkedIn and others.
   - Attended programming bootcamp by Freeformers
@@ -206,7 +205,6 @@ University of Greenwich, London, UK (2011–2014)
 ## References  
 Available on request  
 
-<!-- PDF-IGNORE-START -->
 ### Recommendations:
 
 > "Toufiqur was my Co-founder at Totem and we worked together for 5 years. I highly recommend him as a full stack developer, he goes above and beyond to deliver, and simply gets what the requirements are with very little to go on. You could not find a better team player, contractor and technical expert. He is honest, straight-forward and driven. In the right circumstances I would not hesitate to work with him again and again."
@@ -220,9 +218,8 @@ Available on request
 >It's been incredibly rewarding to see Toufiqur grow over the years. I can confidently and wholeheartedly recommend him for any role."
 > 
 > **- Satwant Signh Kenth**, Co-Founder @ Omniscape
-<!-- PDF-IGNORE-START -->
 
-See [Linkedin Recommendations](https://linkedin.com/in/toufiq)  
+See employer recommendations on [LinkedIn](https://linkedin.com/in/toufiq). 
 
 ---
 **License:** [Creative Commons Zero v1.0 Universal](https://alien45.github.io/cv/LICENSE)
