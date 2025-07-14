@@ -161,9 +161,8 @@ University of Greenwich, London, UK (2011–2014)
 
 
 ## Certifications  
-
-- **Red Hat Certified Engineer (RHCE)** - 91.2% test score  
-- **[Apps for Good](https://www.appsforgood.org/)** - MVP development, team leadership, and final presentation at Facebook London HQ. Sponsored by Facebook & others.<!-- PDF-IGNORE-START -->
+ 
+- **[Apps for Good](https://www.appsforgood.org/)** (2012) - MVP development, team leadership, and final presentation at Facebook London HQ. Sponsored by Facebook & others.<!-- PDF-IGNORE-START -->
   - Met entrepreneurs including then Managing Director (Europe) of LinkedIn and others.
   - Attended programming bootcamp by Freeformers
 
@@ -182,8 +181,9 @@ University of Greenwich, London, UK (2011–2014)
   style="background-image: url('assets/appsforgood.org/2012-07-21.jpg');"
   title="At Freeformers Bootcamp"
 ></div>
-<!-- PDF-IGNORE-END -->
+<!-- PDF-IGNORE-END -->  
 
+- **Red Hat Certified Engineer - RHCE (2009)** - 91.2% test score 
 
 ## Technical Skills  
 
