@@ -114,6 +114,14 @@ style = """
 </style>
 """
 
+# Metadata title block
+meta = """
+<title>Toufiqur R. Chowdhury – Full Stack Developer Resume</title>
+<meta name="author" content="Toufiqur R. Chowdhury">
+<meta name="subject" content="Full Stack Developer Resume">
+<meta name="keywords" content="Toufiqur Chowdhury, Full Stack Developer, Frontend Developer, Resume, JavaScript, TypeScript, React, Node.js, Blockchain, Polkadot, Python, Golang, Go, Remote Developer">
+"""
+
 # Export to PDF
-html_page = f"<!DOCTYPE html><html><head>{style}</head><body>{html_content}</body></html>"
+html_page = f"<!DOCTYPE html><html><head>{meta}{style}</head><body>{html_content}</body></html>"
 HTML(string=html_page).write_pdf("Toufiqur_Chowdhury_CV.pdf")

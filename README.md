@@ -183,7 +183,7 @@ University of Greenwich, London, UK (2011–2014)
 ></div>
 <!-- PDF-IGNORE-END -->  
 
-- **Red Hat Certified Engineer - RHCE (2009)** - 91.2% test score 
+- **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score 
 
 ## Technical Skills  
 
