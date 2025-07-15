@@ -124,7 +124,18 @@ University of Greenwich, London, UK (2011–2014)
 - Worked on the Virtual Real Estate Map application, a SPA frontend in React + Redux and NodeJS backend, deployed on Firebase  
 - Created NodeJS microservice for automation of tokenization transactions using queuing mechanism and singleton pattern  
 - Discovered and fixed major security flaws left by ex-dev  
-- Engineered a NodeJS microservice for queueing & automation of Web3 payment transactions and randomization of rewards for campaign events   
+- Engineered a NodeJS microservice for queueing & automation of Web3 payment transactions and randomization of rewards for campaign events  
+
+
+### Open Source Work & Other Activities  
+
+**2017 – 2019**  
+
+- [Halo Info Bot](https://github.com/alien45/halo-info-bot): Discord chatbot in Go for the Halo Platform blockchain and masternode/DEX data  
+- [HaloDEX Chart Feed](https://github.com/alien45/halodex-chart-feed): Real-time TradingView charting data server in Go  
+- [Cloud Connector](https://github.com/alien45/cloud-connector): Tool for syncing data across AWS S3, GCP, and Azure  
+- Wrote a [PhD research proposal (PDF)](assets/monash-uni-phd-proposal-blockchain-security.pdf) on security vulnerability detection in blockchain-based systems (unfunded)  
+- Ran a small GPU-based home crypto mining operation during the early Ethereum days  
 
 
 ### The Summit Group (Melbourne, AU) - Full Stack Developer  
@@ -144,20 +155,14 @@ University of Greenwich, London, UK (2011–2014)
 - Worked with the tech lead on <a title="A WYSIWYG CMS designed to make delivering websites easier for designers and developers.">Foxley CMS</a>, building backend APIs, unit tests (C#/.NET), and UI in AngularJS  
 - Turned designs into working responsive websites  
 
-
+<!-- PDF-IGNORE-START -->
 ### Easyweb Digital (Melbourne, AU) - Systems Developer  
 
 **Sep – Dec 2014**  
 
 - Backbone.js component development  
 - UI/UX components using Bootstrap and Underscore  
-
-
-## Freelance & Open Source Developer  
-
-- [Halo Info Bot](https://github.com/alien45/halo-info-bot) (AKA Halo Butler), a Discord command based chatbot, in Go for Halo Platform Blockchain, masternode and DEX  
-- [HaloDEX data feed server](https://github.com/alien45/halodex-chart-feed), a TradingView charting library in Go for the Halo Platform community  
-- [Cloud Connector](https://github.com/alien45/cloud-connector) for connecting to MS Azure, GCP and AWS S3 buckets 
+<!-- PDF-IGNORE-END -->
 
 
 ## Certifications  
