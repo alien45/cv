@@ -25,7 +25,7 @@ University of Greenwich, London, UK (2011–2014)
 
 ## Experience  
 
-### Nextion (Remote, US) - Full Stack Developer  
+### Nextion, US - Full Stack Developer (Remote)  
 
 **Feb 2025 – Present**  
 
@@ -37,7 +37,7 @@ University of Greenwich, London, UK (2011–2014)
 - Supported performance analysis by exposing real-time backend services metrics and trade execution states  
 
 
-### [Totem Live Accounting](https://totemaccounting.com) (Remote, CH) - Co-founder & Lead Developer  
+### [Totem Live Accounting, CH](https://totemaccounting.com) - Co-founder & Lead Developer (Remote)  
 
 **Mar 2019 – Mar 2024**  
 
@@ -115,7 +115,7 @@ University of Greenwich, London, UK (2011–2014)
  and [others](https://github.com/totem-tech)  
 
 
-### Omniscape (Remote, US) - Tokenization Developer  
+### [Omniscape, US](https://omniscape.com/) - Tokenization Developer (Remote)  
 
 **May 2021 – Jan 2022**  
 
@@ -156,7 +156,7 @@ Detection For Blockchain Based Systems"></a>
 <!-- PDF-IGNORE-END -->
 
 
-### The Summit Group (Melbourne, AU) - Full Stack Developer  
+### [The Summit Group, Melbourne, AU](https://summitinternet.com.au/) - Full Stack Developer  
 
 **Apr 2016 – Apr 2017**  
 
@@ -166,7 +166,7 @@ Detection For Blockchain Based Systems"></a>
 - Programmed automation tools in Go for parsing, formatting and storing telecom provider billing data  
 
 
-### Web123 Pty Ltd (Melbourne, AU) - Full Stack Developer  
+### [Web123 Pty Ltd, Melbourne, AU](https://web123.com.au/) - Full Stack Developer  
 
 **Jul 2015 – Mar 2016**  
 
@@ -174,7 +174,7 @@ Detection For Blockchain Based Systems"></a>
 - Turned designs into working responsive websites  
 
 <!-- PDF-IGNORE-START -->
-### Easyweb Digital (Melbourne, AU) - Systems Developer  
+### [Easyweb Digital, Melbourne, AU](https://easywebdigital.com/) - Systems Developer  
 
 **Sep – Dec 2014**  
 
