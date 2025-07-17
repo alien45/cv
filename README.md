@@ -135,7 +135,25 @@ University of Greenwich, London, UK (2011–2014)
 - [HaloDEX Chart Feed](https://github.com/alien45/halodex-chart-feed): Real-time TradingView charting data server in Go  
 - [Cloud Connector](https://github.com/alien45/cloud-connector): Tool for syncing data across AWS S3, GCP, and Azure  
 - Wrote a [PhD research proposal (PDF)](https://alien45.github.io/cv/assets/monash-uni-phd-proposal-blockchain-security.pdf) on security vulnerability detection in blockchain-based systems (unfunded)  
-- Ran a small GPU-based home crypto mining operation during the early Ethereum days  
+- Ran a small GPU-based home crypto mining operation during the early Ethereum days  <!-- PDF-IGNORE-START -->
+
+<a
+  class="inline-block width-33p gallery-image-bg"
+  href="https://github.com/alien45/halo-info-bot"
+  style="background-image: url('assets/os_and_other/screenshot-cmd-help.png'); background-position: top left;"
+  title="'!help' command lists all of commands implemented."></a>
+<a
+  class="inline-block width-33p gallery-image-bg"
+  href="https://github.com/alien45/halo-info-bot"
+  style="background-image: url('assets/os_and_other/screenshot-cmd-halo.png'); background-position: top left;"
+  title="'!halo' command presents a dashboard-like response with details abotu the HALO ticker, masternode/blockchain current era info and most recent trades on the HALO/ETH pair"></a>
+<a
+  class="inline-block width-33p gallery-image-bg"
+  href="assets/monash-uni-phd-proposal-blockchain-security.pdf"
+  style="background-image: url('assets/os_and_other/screenshot-research-proposal-1st-page.png')"
+  title="PhD research proposal: Testing And Security Vulnerability
+Detection For Blockchain Based Systems"></a>
+<!-- PDF-IGNORE-END -->
 
 
 ### The Summit Group (Melbourne, AU) - Full Stack Developer  
