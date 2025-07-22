@@ -4,5 +4,4 @@
 
 ---
 
-Latest version available at: [alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf)  
-_Last updated: {{DATE}}_
+Updated: {{DATE}} | Latest PDF and detailed online CV: [alien45.github.io/cv](https://alien45.github.io/cv)

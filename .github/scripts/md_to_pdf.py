@@ -69,7 +69,11 @@ style = """
     margin: 0.75em 0 0.25em;
   }
   h3 {
-    margin: 0.5em 0 0.125em;
+    margin: 0.75em 0 0.125em;
+  }
+  /* Remove bottom spacing from experience date range */
+  h3 + p {
+    margin-bottom: 0;
   }
   a {
     color: #0366d6;
@@ -119,7 +123,7 @@ meta = """
 <title>Toufiqur R. Chowdhury – Full Stack Developer Resume</title>
 <meta name="author" content="Toufiqur R. Chowdhury">
 <meta name="subject" content="Full Stack Developer Resume">
-<meta name="keywords" content="Toufiqur Chowdhury, Full Stack Developer, Frontend Developer, Resume, JavaScript, TypeScript, React, Node.js, Blockchain, Polkadot, Python, Golang, Go, Remote Developer">
+<meta name="keywords" content="Toufiq, Toufiqur Chowdhury, Toufiqur R. Chowdhury, Full Stack Developer, Frontend Developer, Resume, JavaScript, TypeScript, React, Node.js, Blockchain, Polkadot, Python, Golang, Go, Remote Developer">
 """
 
 # Export to PDF
