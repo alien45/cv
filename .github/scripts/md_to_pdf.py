@@ -70,6 +70,7 @@ style = """
   }
   h3 {
     margin: 0.75em 0 0.125em;
+    font-weight: bold;
   }
   /* Remove bottom spacing from experience date range */
   h3 + p {
