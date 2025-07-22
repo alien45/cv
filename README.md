@@ -28,8 +28,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Contributed 25% of the total degree weight.
 - Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
 - Focused on hands-on coding, not just theoretical reporting.
-
-> 📄 [Final Report](assets/university_of_greenwich/final-year-project-report.pdf)  
+- [Project report (PDF) available here](assets/university_of_greenwich/final-year-project-report.pdf)  
 
 <!-- PDF-IGNORE-START -->  
 
