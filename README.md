@@ -68,10 +68,10 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 - Sole developer of the entire frontend & off-chain Node.js backend  
 - In-app Blockchain wallet, partner & team management and timekeeping & financial statement viewer  
-- Marketplace with proposal submission & approval with automated payouts on completion  
+- Marketplace with proposal submission & approval with automated payouts  
 - Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat  
 - Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency  
-- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification. <!-- PDF-IGNORE-START -->
+- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification.<!-- PDF-IGNORE-START -->
 
   ><b>BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.
 
@@ -83,13 +83,13 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Coded and deployed [Totem Live Accounting](https://totemaccounting.com/) homepage from design specs  
 - Architected semi-automated tooling for multilingual support for API & frontend  
 
-  
+
 **Community Contributions:**  
 
 - Boosted user retention, social engagement & bug discovery through gamified rewards engine and responsive onboarding  
 - Launched and ran the Totem Ambassador Program  
-- Led multilingual Telegram and Twitter engagement, doubling community engagement and improving support responsiveness across 6+ language groups  
-- Provided user support by in-app live chat, socials and led feature walk-throughs  
+- Led multilingual Telegram and Twitter engagement, doubling community engagement and improving support across 6+ language groups  
+- Provided user support by in-app chat, socials and feature walk-throughs  
  
 **Demo Of My Work:**
 [Totem.Live DApp](https://youtube.com/watch?v=29rViB0SFhA) | 
@@ -262,8 +262,8 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
     style="background-image: url('assets/appsforgood.org/2012-07-21-thumb.jpg');"
     title="At Freeformers Bootcamp"
   ></a>
-</div><!-- PDF-IGNORE-END -->  
-
+</div>
+<!-- PDF-IGNORE-END -->
 - **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score 
 
 ## Technical Skills  
