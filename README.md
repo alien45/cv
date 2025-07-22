@@ -24,11 +24,14 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 [University of Greenwich](https://www.gre.ac.uk/), London, UK (2011–2014)
 
-**Final Year Project (Indoor Positioning via WiFi Fingerprinting):** Designed and built a proof-of-concept Android app for WiFi fingerprinting and real-time indoor location tracking using signal strength, triangulation, and basic ML via SDKs.  <!-- PDF-IGNORE-START -->
+**Final Year Project (Indoor Positioning via WiFi Fingerprinting):** Designed and built a proof-of-concept Android app for WiFi fingerprinting and real-time indoor location tracking using signal strength, triangulation, and basic ML via SDKs.  
+
+<!-- PDF-IGNORE-START -->
+
 - Contributed 25% of the total degree weight.
 - Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
 - Focused on hands-on coding, not just theoretical reporting.
-- [Project report (PDF) available here](assets/university_of_greenwich/final-year-project-report.pdf)  
+- [Project report PDF available here](assets/university_of_greenwich/final-year-project-report.pdf)  
 
 <!-- PDF-IGNORE-START -->  
 
@@ -53,8 +56,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 <h3 id="exp-totem">
   <a href="https://totemaccounting.com">
     Totem Live Accounting, CH
-  </a>
-   - Co-founder & Lead Developer (Remote)
+  </a> - Co-founder & Lead Developer (Remote)
 </h3>  
 
 **Mar 2019 – Mar 2024**  
@@ -64,19 +66,21 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 **Core Contributions:**  
 
 - Sole developer of the entire frontend & off-chain Node.js backend  
-- [In-app](https://web.archive.org/web/20250217221820/https://totem.live/) Blockchain wallet, partner & team management and timekeeping & financial statement viewer  
+- In-app Blockchain wallet, partner & team management and timekeeping & financial statement viewer  
 - Marketplace with proposal submission & approval with automated payouts on completion  
-- Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat 
+- Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat  
 - Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency  
-- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification  <!-- PDF-IGNORE-START -->  
+- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification   <!-- PDF-IGNORE-START -->
+
   - **BONSAI:** Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.  
-<!-- PDF-IGNORE-END -->  
+
+<!-- PDF-IGNORE-END -->
 - Launched the Crowdloan & Pledge DApp, raising $1+M in the Polkadot Parachain auction and $83.6K in the pledge round  
 - Secured & encrypted inter-microservice communication with [TweetNaCl.js](https://tweetnacl.js.org)  
 - Authored cross-stack library `common-utils` with Reactive hooks, components, JSON storage & CouchDB helper and form + API data validation library  
 - Automated CI with GitLab webhooks and custom scripts for source-committed builds and improved release traceability  
 - Coded and deployed [Totem Live Accounting](https://totemaccounting.com/) homepage from design specs  
-- Architected semi-automated tooling for multilingual support for API & frontend
+- Architected semi-automated tooling for multilingual support for API & frontend  
 
   
 **Community Contributions:**  
