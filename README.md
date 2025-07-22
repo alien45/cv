@@ -17,6 +17,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 </p>  
 
 
+
 ## Education  
 
 <h3 id="edu-greenwich">BEng Software Engineering (First Class with Honours)</h3>  
