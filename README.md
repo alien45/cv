@@ -28,25 +28,26 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
 - Focused on hands-on coding, not just theoretical reporting.
 
-> 📄 [Final Report](assets/university_of_greenwich/final-year-project-report.pdf)
+> 📄 [Final Report](assets/university_of_greenwich/final-year-project-report.pdf)  
 
-<!-- PDF-IGNORE-START -->
+<!-- PDF-IGNORE-START -->  
 
-<h2 id="experience">Experience</h2>
+
+
+<h2 id="experience">Experience</h2>  
 
 <h3 id="exp-nextion">
   Nextion, US - Full Stack Developer (Remote)
-</h3>
+</h3>  
 
 **Feb 2025 – Present**  
-
 
 **Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis  
  
 - Developed a trade approval, re-/execution, and monitoring UI with batch order queuing, powered by Redis-based quant engine and IB gateway  
 - Fast-tracked Python with AI to ship FastAPI backend using Docker & Postgres  
 - Enabled analytics by exposing backend metrics, execution states, and historical portfolio snapshots  
-- Wrote an interactive shell script to set up Postgres with reusable, idempotent schema and automated entry of audit logs using Postgres triggers
+- Wrote an interactive shell script to set up Postgres with reusable, idempotent schema and automated entry of audit logs using Postgres triggers  
 
 
 <h3 id="exp-totem">
@@ -67,9 +68,8 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Marketplace with proposal submission & approval with automated payouts on completion  
 - Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat 
 - Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency  
-- Co-designed and implemented <a href="#def-bonsai">BONSAI</a>, an innovative dual on/off-chain proof system using hash anchoring and token-based verification<!-- PDF-IGNORE-START -->
-    ><b id="def-bonsai">BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.
-
+- Co-designed and implemented <a href="#def-bonsai">BONSAI</a>, an innovative dual on/off-chain proof system using hash anchoring and token-based verification  <!-- PDF-IGNORE-START -->  
+    ><b id="def-bonsai">BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.  
 <!-- PDF-IGNORE-END -->  
 - Launched the Crowdloan & Pledge DApp, raising $1+M in the Polkadot Parachain auction and $83.6K in the pledge round  
 - Secured & encrypted inter-microservice communication with [TweetNaCl.js](https://tweetnacl.js.org)  
