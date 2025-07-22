@@ -31,13 +31,14 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Contributed 25% of the total degree weight.
 - Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
 - Focused on hands-on coding, not just theoretical reporting.
-- [Project report PDF available here](assets/university_of_greenwich/final-year-project-report.pdf)  
 
-<!-- PDF-IGNORE-START -->  
+>[Project report PDF available here](assets/university_of_greenwich/final-year-project-report.pdf)  
+
+<!-- PDF-IGNORE-END -->  
 
 
 
-## Experience  
+<h2 id="experience">Experience</h2>  
 
 <h3 id="exp-nextion">  
   Nextion, US - Full Stack Developer (Remote)  
@@ -70,7 +71,11 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Marketplace with proposal submission & approval with automated payouts on completion  
 - Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat  
 - Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency  
-- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification. <!-- PDF-IGNORE-START --><b>BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.<!-- PDF-IGNORE-END -->  
+- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification. <!-- PDF-IGNORE-START -->
+
+  ><b>BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.
+
+<!-- PDF-IGNORE-END -->  
 - Launched the Crowdloan & Pledge DApp, raising $1+M in the Polkadot Parachain auction and $83.6K in the pledge round  
 - Secured & encrypted inter-microservice communication with [TweetNaCl.js](https://tweetnacl.js.org)  
 - Authored cross-stack library `common-utils` with Reactive hooks, components, JSON storage & CouchDB helper and form + API data validation library  
