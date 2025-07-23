@@ -170,7 +170,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Ran a small GPU-based home crypto mining operation during the early Ethereum days  <!-- PDF-IGNORE-START -->
 - Authored a how-to guide and interactive bash script to setup Halo Platform masternode using VPS  
 
-PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platform. The bot is currently off-live.
+PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platform. The bot is currently off-line.
 
 <a
   class="inline-block width-33p gallery-image-bg overlay-icon link"
@@ -231,8 +231,6 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 - Backbone.js component development  
 - UI/UX components using Bootstrap and Underscore  
-
-<!-- </div> -->
 
 <!-- PDF-IGNORE-END -->
 
