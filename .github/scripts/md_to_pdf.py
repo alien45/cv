@@ -66,11 +66,11 @@ style = """
     margin-top: -1em;
   }
   h2 {
-    margin: 0.75em 0 0.25em;
+    margin: 0.75em 0 0;
   }
   h3 {
-    margin: 0.75em 0 0.125em;
-    font-weight: bold;
+    margin: 0.75em 0 0;
+    font-weight: 900;
   }
   /* Remove bottom spacing from experience date range */
   h3 + p {
