@@ -1,4 +1,7 @@
 <!-- PDF-IGNORE-START -->
+<!-- padding for GitHub only -->
+<link rel="stylesheet" href="assets/style.css" />
+
 <!-- Header block will be replaced by PDF generation script (.github/scripts/md_to_pdf.py). Make sure to keep both the script and this file update to date with contact details -->
 # Toufiqur R. Chowdhury
   
@@ -261,6 +264,7 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
     title="At Freeformers Bootcamp"
   ></a>
 </div>
+
 <!-- PDF-IGNORE-END -->
 - **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score 
 
@@ -303,96 +307,4 @@ See employer recommendations on [LinkedIn](https://linkedin.com/in/toufiq).
 ---
 **License:** [Creative Commons Zero v1.0 Universal](https://alien45.github.io/cv/LICENSE)
 
-<!-- padding for GitHub only -->
-<style>
-  body {
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 900px;
-    margin: auto;
-  }
-
-  .markdown-body h1 {
-    border: none;
-    margin-bottom: 0;
-  }
-
-  .inline-block { display: inline-block }
-
-  .width-33p { width: calc( 33% - 1px ); }
-
-  .gallery-image-bg {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    min-height: 240px;
-  }
-
-  .overlay-icon { position: relative; }
-  .overlay-icon::before {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: clamp(25px, 33.33%, 100px); 
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  .overlay-icon.image::before {
-    background-image: url(assets/image-icon.png);
-  }
-  .overlay-icon.link::before {
-    background-image: url(assets/link-icon.png);
-  }
-  .overlay-icon.video::before {
-    background-image: url(assets/play-icon.png);
-  }
-
-  /* Highlight PDF-IGNORED sections on-hover */
-  .pdf-ignored:hover {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding-top: 3px;
-    margin-top: 3px;
-  }
-  .pdf-ignored:hover::before {
-      content: 'Not available in PDF';
-      position: absolute;
-      top: -8px;
-      left: calc( 50% - 50px );
-      background: #333;
-      color: white;
-      font-size: 9px;
-      font-weight: bold;
-      font-style: italic;
-      padding: 0px 5px;
-      border: 0.5px solid;
-      border-radius: 5px;
-  }
-  .pdf-ignored {
-      position: relative;
-      border: 1px solid transparent;
-  }
-  @media (min-width: 601px) {
-    body {
-      padding-left: 50px;
-      padding-right: 50px;
-    }
-    .overlay-icon:not(:hover)::before {
-      display: none;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .gallery-image-bg { min-width: 100% }
-    .overlay-icon,
-    .video {
-      display: block;
-      min-width: 100%;
-    }
-  }
- </style>
 <!-- PDF-IGNORE-END -->  
