@@ -43,15 +43,15 @@ body {
 }
 
 .overlay-icon.image::before {
-    background-image: url(assets/image-icon.png);
+    background-image: url(./image-icon.png);
 }
 
 .overlay-icon.link::before {
-    background-image: url(assets/link-icon.png);
+    background-image: url(./link-icon.png);
 }
 
 .overlay-icon.video::before {
-    background-image: url(assets/play-icon.png);
+    background-image: url(./play-icon.png);
 }
 
 /* Highlight PDF-IGNORED sections on-hover */

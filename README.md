@@ -98,6 +98,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 [Totem.Live DApp](https://youtube.com/watch?v=29rViB0SFhA) | 
 [Crowdloan DApp](https://www.youtube.com/watch?v=qBLskkm0iDk&t=61s) | 
 [Polkadot Decoded](https://www.youtube.com/watch?v=FzqX41_ga2I&t=580s)  <!-- PDF-IGNORE-START --> 
+
 <a
   class="inline-block width-33p overlay-icon video"
   href="https://youtube.com/watch?v=29rViB0SFhA"
