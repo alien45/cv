@@ -50,7 +50,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 **Feb 2025 – Present**  
 
-**Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis  
+**Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis, Interactive Brokers/IB Gateway 
  
 - Developed a trade approval, re-/execution, and monitoring UI with batch order queuing, powered by Redis-based quant engine and IB gateway  
 - Fast-tracked Python with AI to ship FastAPI backend using Docker & Postgres  
@@ -66,7 +66,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 **Mar 2019 – Mar 2024**  
 
-**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, WebSockets, Semantic UI React, Material UI, TweetNaCl.js  
+**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, Blockchain, Socket.io, Semantic UI React, Material UI, TweetNaCl.js, Stripe API  
 
 **Core Contributions:**  
 
@@ -153,6 +153,8 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 </h3>
 
 **May 2021 – Jan 2022**  
+
+**Tech:** JavaScript, React, Node.js, Firetore, Firebase Functions, NFT, Web3, Stripe API
 
 - Built the tokenization engine for virtual real estate assets  
 - Integrated Stripe and Web3 payment flows  
@@ -274,7 +276,7 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 **Languages:** JavaScript, TypeScript, Python, Go, C#, PHP    
 **Frontend:** React, Tanstack Table, React Hook Form, AngularJS, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap  
-**Backend:** Node.js, FastAPI, Express.js, Golang, Redis, Postgres, CouchDB, TweetNaCl.js  
+**Backend:** Node.js, FastAPI, Express.js, Golang, Redis, Postgres, CouchDB, TweetNaCl.js, Stripe API  
 **Blockchain:** Polkadot/Substrate, Web3.js, Polkadot.js, NFT, DApps  
 **Tools:** Vite, Docker, Firebase, WebSockets, RxJS, Git, GulpJS, RabbitMQ  
 **Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile  
