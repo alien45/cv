@@ -274,9 +274,9 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 ## Technical Skills  
 
-**Languages:** JavaScript, TypeScript, Python, Go, C#, PHP    
-**Frontend:** React, Tanstack Table, React Hook Form, AngularJS, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap  
-**Backend:** Node.js, FastAPI, Express.js, Golang, Redis, Postgres, CouchDB, TweetNaCl.js, Stripe API  
+**Languages:** JavaScript, TypeScript, Python, Golang, C#, PHP    
+**Frontend:** React, Tanstack Table, React Hook Form, AngularJS, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap, Stripe API  
+**Backend:** Node.js, FastAPI, Express.js, TweetNaCl.js, CouchDB, Redis, Postgres  
 **Blockchain:** Polkadot/Substrate, Web3.js, Polkadot.js, NFT, DApps  
 **Tools:** Vite, Docker, Firebase, WebSockets, RxJS, Git, GulpJS, RabbitMQ  
 **Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile  
