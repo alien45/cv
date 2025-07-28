@@ -9,6 +9,7 @@
 🌍 **Location:** Antalya, Turkiye  
 💻 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
 💻 **GitHub:** [github.com/alien45](https://github.com/alien45)  
+💻 **Journal:** [alien45.github.io/journal](https://alien45.github.io/journal)  
 <!-- PDF-IGNORE-END -->
 
 ---
