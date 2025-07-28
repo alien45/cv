@@ -158,10 +158,9 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 - Built the tokenization engine for virtual real estate assets  
 - Integrated Stripe and Web3 payment flows  
-- Worked on the Virtual Real Estate Map application, a SPA frontend in React + Redux and NodeJS backend, deployed on Firebase  
-- Created NodeJS microservice for automation of tokenization transactions using queuing mechanism and singleton pattern  
-- Discovered and fixed major security flaws left by ex-dev  
-- Engineered a NodeJS microservice for queueing & automation of Web3 payment transactions and randomization of rewards for campaign events  
+- Worked on the Virtual Real Estate Map application, a SPA frontend in React, Redux, Firestore and NodeJS backend deployed using Firebase Functions  
+- Discovered and fixed major security flaws left by ex-dev    
+- Engineered a NodeJS microservice using queueing and singleton patterns to automate Web3 payments, campaign rewards and tokenization/NFT
 
 
 <h3 id="exp-os-and-other">
