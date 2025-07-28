@@ -173,7 +173,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - [HaloDEX Chart Feed](https://github.com/alien45/halodex-chart-feed): Real-time TradingView charting data server in Go  
 - [Cloud Connector](https://github.com/alien45/cloud-connector): Tool for syncing data across AWS S3, GCP, and Azure  
 - Wrote a [PhD research proposal (PDF)](https://alien45.github.io/cv/assets/monash-uni-phd-proposal-blockchain-security.pdf) on security vulnerability detection in blockchain-based systems (unfunded)  
-- Ran a small GPU-based home crypto mining operation during the early Ethereum days  <!-- PDF-IGNORE-START -->
+- Ran a small home GPU crypto mining setup during early Ethereum era  <!-- PDF-IGNORE-START -->
 - Authored a how-to guide and interactive bash script to setup Halo Platform masternode using VPS  
 
 PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platform. The bot is currently off-line.
