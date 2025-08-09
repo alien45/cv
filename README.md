@@ -154,7 +154,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 **May 2021 – Jan 2022**  
 
-**Tech:** JavaScript, React, Node.js, Firetore, Firebase Functions, NFT, Web3, Stripe API
+**Tech:** JavaScript, React, Node.js, Firestore, Firebase Functions, NFT, Web3, Stripe API
 
 - Built the tokenization engine for virtual real estate assets  
 - Integrated Stripe and Web3 payment flows  
