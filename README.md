@@ -17,10 +17,8 @@
 ## Summary
 
 <p style="text-align: justify;">
-Full-stack developer with 8+ years of experience building scalable web apps, developer tools, and decentralized platforms. Led full frontend and backend development at Totem Live Accounting, designing robust off-chain architecture and modular systems. Adaptable engineer who rapidly learns new ecosystems, from Python and Golang to AngularJS and Polkadot, and delivers production-ready features fast.
-</p>  
-
-
+Full-stack developer with 8+ years of experience building scalable web apps, developer tools, and decentralized platforms. At Totem Live Accounting, led development across the entire frontend and off-chain backend, designing robust architecture and modular systems. Proven ability to quickly master new technologies such as Python, Golang, AngularJS, and Polkadot, while delivering production-ready features under tight startup constraints.
+</p>
 
 ## Education  
 
@@ -206,7 +204,7 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 **Apr 2016 – Apr 2017**  
 
-- WHMCS payment integration via Ezidebit API  
+- Enabled recurring direct debits and instant card payments via Ezidebit API on WHMCS  
 - SPA admin dashboard for customer billing and invoicing system using AngularJS, deployed with Docker  
 - Backend API & microservices using Go, MySQL & RabbitMQ  
 - Programmed automation tools in Go for parsing, formatting and storing telecom provider billing data  
