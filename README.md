@@ -48,7 +48,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 **Feb 2025 – Present**  
 
-**Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis, Interactive Brokers/IB Gateway 
+**Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis, Interactive Brokers/IB Gateway, RxJS  
  
 - Developed a trade approval, re-/execution, and monitoring UI with batch order queuing, powered by Redis-based quant engine and IB gateway  
 - Fast-tracked Python with AI to ship FastAPI backend using Docker & Postgres  
@@ -64,7 +64,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 **Mar 2019 – Mar 2024**  
 
-**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, Blockchain, Socket.io, Semantic UI React, Material UI, TweetNaCl.js, Stripe API  
+**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, Blockchain, Socket.io, Semantic UI React, Material UI, TweetNaCl.js, Stripe API, RxJS  
 
 **Core Contributions:**  
 
