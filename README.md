@@ -272,10 +272,10 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 ## Technical Skills  
 
 **Languages:** JavaScript, TypeScript, Python, Golang, C#, PHP    
-**Frontend:** React, Tanstack Table, React Hook Form, AngularJS, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap, Stripe API  
-**Backend:** Node.js, FastAPI, Express.js, TweetNaCl.js, CouchDB, Redis, Postgres  
-**Blockchain:** Polkadot/Substrate, Web3.js, Polkadot.js, NFT, DApps  
-**Tools:** Vite, Docker, Firebase, WebSockets, RxJS, Git, GulpJS, RabbitMQ  
+**Frontend:** React, [Tanstack Table](https://tanstack.com/table), [React Hook Form](https://react-hook-form.com/), AngularJS, Redux, [Semantic UI React](https://react.semantic-ui.com/), [Material UI](https://mui.com/material-ui/), [Tailwind](https://tailwindcss.com/), HTML, CSS, Bootstrap, [Stripe API](https://docs.stripe.com/payments)  
+**Backend:** Node.js, [FastAPI](https://fastapi.tiangolo.com/), Express.js, [TweetNaCl.js](https://tweetnacl.js.org/#/), [CouchDB](https://couchdb.apache.org/), Redis, Postgres  
+**Blockchain:** [Polkadot/Substrate](https://polkadot.com/), Web3.js, [Polkadot.js](https://polkadot.js.org/), NFT, DApps  
+**Tools:** [Vite](https://vite.dev/), [Docker](https://www.docker.com/), [Firebase](https://firebase.google.com/docs/firestore/), [Socket.io](https://socket.io/), [RxJS](https://rxjs.dev/), Git, GulpJS, RabbitMQ  
 **Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile  
 
 
