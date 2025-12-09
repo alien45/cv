@@ -74,7 +74,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 <h3 id="exp-totem">
   <a href="https://totemaccounting.com">
-    Totem<!-- PDF-IGNORE-START --> Live Accounting<!-- PDF-IGNORE-END -->, CH
+    Totem Accounting, CH
   </a> - Co-founder & Lead Developer (Remote)
 </h3>  
 
