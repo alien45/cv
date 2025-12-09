@@ -228,6 +228,8 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 - Co-interviewed, helped onboard and mentored an intern
 
 
+<!-- PDF-IGNORE-START -->
+
 <h3 id="exp-web123">
   <a href="https://web123.com.au/">
     Web123 Pty Ltd, Melbourne, AU
@@ -240,8 +242,8 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 - Worked with the tech lead on <b title="A WYSIWYG CMS designed to make delivering websites easier for designers and developers.">Foxley CMS</b>, building backend APIs, unit tests (C#/.NET), and UI in AngularJS  
 - Turned designs into working responsive websites  
 
-<!-- PDF-IGNORE-START -->
-  <h3 id="exp-easyweb">
+
+<h3 id="exp-easyweb">
     <a href="https://easywebdigital.com/">
       Easyweb Digital, Melbourne, AU
     </a>
