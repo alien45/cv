@@ -56,7 +56,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 - Managed automated documentation generation and reliable release processes for each module  
 - Added thorough unit testing across all packages and maintained full coverage  
 - Delivered reusable utilities suited for real project scenarios in both Node and browser environments  
-<!-- PDF-IGNORE-START -->  
+<!-- PDF-IGNORE-END-->  
 
 <h3 id="exp-nextion">  
   Nextion, US - Full Stack Developer (Remote)  
