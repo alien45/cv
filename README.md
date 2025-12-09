@@ -42,6 +42,22 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 <h2 id="experience">Experience</h2>  
 
+<h3 id="exp-superutils">
+  <a href="https://github.com/alien45/superutils">@superutils</a> - Open Source Developer and Maintainer (Remote)
+</h3>  
+
+**Jul 2025 – Present**  
+
+**Tech:** Typescript, React, RxJS, Vite, Vitest, Vitepress, TypeDoc, Lerna, NPM, CI/CD
+
+- Creator and maintainer of a modern TypeScript utility monorepo delivering practical modules for common application workflows  
+- Designed, implemented and published multiple <a href="https://www.npmjs.com/org/superutils">packages</a> with full <a href="https://alien45.github.io/superutils/">documentation</a> and complete test coverage<!-- PDF-IGNORE-START -->  
+- Built a structured multi package codebase with clean APIs, strong typing and consistent tooling  
+- Managed automated documentation generation and reliable release processes for each module  
+- Added thorough unit testing across all packages and maintained full coverage  
+- Delivered reusable utilities suited for real project scenarios in both Node and browser environments  
+<!-- PDF-IGNORE-START -->  
+
 <h3 id="exp-nextion">  
   Nextion, US - Full Stack Developer (Remote)  
 </h3>  
@@ -58,7 +74,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
 
 <h3 id="exp-totem">
   <a href="https://totemaccounting.com">
-    Totem Live Accounting, CH
+    Totem<!-- PDF-IGNORE-START --> Live Accounting<!-- PDF-IGNORE-END -->, CH
   </a> - Co-founder & Lead Developer (Remote)
 </h3>  
 
@@ -204,7 +220,7 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 **Apr 2016 – Apr 2017**  
 
-- Enabled recurring direct debits and instant card payments via Ezidebit API on WHMCS  
+- Enabled recurring direct debits and card payments via Ezidebit API on WHMCS  
 - SPA admin dashboard for customer billing and invoicing system using AngularJS, deployed with Docker  
 - Backend API & microservices using Go, MySQL & RabbitMQ  
 - Programmed automation tools in Go for parsing, formatting and storing telecom provider billing data  
