@@ -20,25 +20,6 @@
 Full-stack developer with 8+ years of experience building scalable web apps, developer tools, and decentralized platforms. At Totem Live Accounting, led development across the entire frontend and off-chain backend, designing robust architecture and modular systems. Proven ability to quickly master new technologies such as Python, Golang, AngularJS, and Polkadot, while delivering production-ready features under tight startup constraints.
 </p>
 
-## Education  
-
-<h3 id="edu-greenwich">BEng Software Engineering (First Class with Honours)</h3>  
-
-[University of Greenwich](https://www.gre.ac.uk/), London, UK (2011–2014)
-
-**Final Year Project (Indoor Positioning via WiFi Fingerprinting):** Designed and built a proof-of-concept Android app for WiFi fingerprinting and real-time indoor location tracking using signal strength, triangulation, and basic ML via SDKs.  
-
-<!-- PDF-IGNORE-START -->
-
-- Contributed 25% of the total degree weight.
-- Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
-- Focused on hands-on coding, not just theoretical reporting.
-
->[Project report PDF available here](assets/university_of_greenwich/final-year-project-report.pdf)  
-
-<!-- PDF-IGNORE-END -->  
-
-
 
 <h2 id="experience">Experience</h2>  
 
@@ -258,7 +239,29 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 <!-- PDF-IGNORE-END -->
 
 
+## Education  
+
+<h3 id="edu-greenwich">BEng Software Engineering (First Class with Honours)</h3>  
+
+[University of Greenwich](https://www.gre.ac.uk/), London, UK (2011–2014)
+
+**Final Year Project (Indoor Positioning via WiFi Fingerprinting):** Designed and built a proof-of-concept Android app for WiFi fingerprinting and real-time indoor location tracking using signal strength, triangulation, and basic ML via SDKs.  
+
+<!-- PDF-IGNORE-START -->
+
+- Contributed 25% of the total degree weight.
+- Implemented custom indoor mapping, location estimation via Dijkstra’s algorithm.
+- Focused on hands-on coding, not just theoretical reporting.
+
+>[Project report PDF available here](assets/university_of_greenwich/final-year-project-report.pdf)  
+
+<!-- PDF-IGNORE-END -->  
+
+
+
 ## Certifications  
+
+- **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score
  
 - **[Apps for Good](https://www.appsforgood.org/)** (2012) - MVP development, team leadership, and final presentation at Facebook London HQ. Sponsored by Facebook & others.<!-- PDF-IGNORE-START -->  
   - Met entrepreneurs including then Managing Director (Europe) of LinkedIn and others.
@@ -285,8 +288,7 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
   ></a>
 </div>
 
-<!-- PDF-IGNORE-END -->
-- **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score 
+<!-- PDF-IGNORE-END --> 
 
 ## Technical Skills  
 
