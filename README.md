@@ -31,27 +31,20 @@ Senior frontend engineer with 8+ years of end-to-end ownership experience - from
 
 **Tech:** Typescript, React, RxJS, Vite, Vitest, Vitepress, TypeDoc, Lerna, NPM, CI/CD
 
-- Creator and maintainer of a published TypeScript utility monorepo with [4 packages](https://npmjs.com/org/superutils),
-  complete documentation, and full test coverage
-- Built a typed fetch wrapper with automatic retries, timeouts, and built-in support
-  for cancellable debounced requests -- eliminating common async boilerplate
-- Designed an observable data store built on RxJS for reactive, type-safe state
-  management across both Node and browser environments
-- Established consistent API design, strict TypeScript typing, and automated
-  documentation and release pipelines via CI/CD<!-- PDF-IGNORE-START -->
+- Creator and maintainer of a published TypeScript utility monorepo with [4 packages](https://npmjs.com/org/superutils), complete documentation, and full test coverage
+- Built a typed fetch wrapper with automatic retries, timeouts, and built-in support for cancellable debounced requests - eliminating async boilerplate
+- Designed an observable data store built on RxJS for reactive, type-safe state management across both Node and browser environments
+- Established consistent API design, strict TypeScript typing, and automated documentation and release pipelines via CI/CD<!-- PDF-IGNORE-START -->
   
-This monorepo is the direct, public evolution of common-utils -- an internal 
+This monorepo is the direct, public evolution of [common-utils](https://github.com/totem-tech/common-utils) - an internal 
 cross-stack library built and battle-tested at Totem Live Accounting over 5 years. 
 Where common-utils solved immediate product needs, @superutils is its intentional 
 rewrite for public consumption: clean APIs, complete documentation, full test 
 coverage, and backwards compatibility as a first-class constraint from day one. 
-@superutils/react is in active development, porting and rewriting the React hooks, 
-components, and services from common-utils into strict TypeScript.
 
-The deferred execution model across @superutils/promise and @superutils/fetch reflects 
-a deliberate design philosophy: async complexity (cancellation, debouncing, timeout, 
+The deferred execution model across [@superutils/promise](https://npmjs.com/package/@superutils/promise) and [@superutils/fetch](https://npmjs.com/package/@superutils/fetch) reflects a deliberate design philosophy: async complexity (cancellation, debouncing, timeout, 
 retry) should be composable at the call site, not scattered across components. 
-PromisE.deferred() is the primitive; fetch.get.deferred() is the practical 
+[PromisE.deferred()](https://www.npmjs.com/package/@superutils/promise#deferred) is the primitive; [fetch.get.deferred()](https://www.npmjs.com/package/@superutils/fetch#fetch-deferred) is the practical 
 application. Both packages are isomorphic and ship browser builds via CDN.    
 <!-- PDF-IGNORE-END -->  
 
