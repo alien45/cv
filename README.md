@@ -32,7 +32,7 @@ Senior frontend engineer with 8+ years of end-to-end ownership experience - from
 **Tech:** Typescript, React, RxJS, Vite, Vitest, Vitepress, TypeDoc, Lerna, NPM, CI/CD
 
 - Creator and maintainer of a published TypeScript utility monorepo with [4 packages](https://npmjs.com/org/superutils), complete documentation, and full test coverage
-- Built a typed fetch wrapper with automatic retries, timeouts, and built-in support for cancellable debounced requests - eliminating async boilerplate
+- - Built a typed fetch wrapper with automatic retries, timeouts, and cancellable debounced requests, plus [`ApiClient`](https://www.npmjs.com/package/@superutils/fetch#api-client) for isolated per-endpoint instances and [`fetchFunc`](https://www.npmjs.com/package/@superutils/fetch#fetch-func) for compatibility with third-party HTTP libraries
 - Designed an observable data store built on RxJS for reactive, type-safe state management across both Node and browser environments
 - Established consistent API design, strict TypeScript typing, and automated documentation and release pipelines via CI/CD<!-- PDF-IGNORE-START -->
   
