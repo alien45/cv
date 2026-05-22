@@ -5,5 +5,5 @@
     <br />
     <a href="https://linkedin.com/in/toufiq">linkedin.com/in/toufiq</a> | 
     <a href="https://github.com/alien45">github.com/alien45</a> | 
-    <b>Location:</b> Turkiye
+    <b>Location:</b> Antalya, Turkey (UTC+3)
 </center>
