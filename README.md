@@ -6,7 +6,7 @@
 # Toufiqur R. Chowdhury
   
 📫 **Contact:** Please see my [ATS-Friendly CV (PDF)](https://alien45.github.io/cv/Toufiqur_Chowdhury_CV.pdf) for full contact details.  
-🌍 **Location:** Antalya, Turkiye  
+🌍 **Location:** Antalya, Turkiye (UTC+3)  
 💻 **LinkedIn:** [linkedin.com/in/toufiq](https://linkedin.com/in/toufiq)  
 💻 **GitHub:** [github.com/alien45](https://github.com/alien45)  
 💻 **Journal:** [alien45.github.io/journal](https://alien45.github.io/journal)  
