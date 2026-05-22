@@ -17,7 +17,7 @@
 ## Summary
 
 <p style="text-align: justify;">
-Full-stack developer with 8+ years of experience building scalable web apps, developer tools, and decentralized platforms. At Totem Live Accounting, led development across the entire frontend and off-chain backend, designing robust architecture and modular systems. Proven ability to quickly master new technologies such as Python, Golang, AngularJS, and Polkadot, while delivering production-ready features under tight startup constraints.
+Senior frontend engineer with 8+ years of end-to-end ownership experience - from trading UIs to blockchain DApps to open-source developer tooling. Built and maintained the entire frontend and off-chain backend at Totem as sole developer for 5 years. Creator of @superutils, a TypeScript utility monorepo. Strong in React, TypeScript, real-time systems, and full-stack delivery.
 </p>
 
 
@@ -44,7 +44,7 @@ Full-stack developer with 8+ years of experience building scalable web apps, dev
   Nextion, US - Full Stack Developer (Remote)  
 </h3>  
 
-**Feb 2025 – Present**  
+**Feb 2025 – July 2025**  
 
 **Tech:** React, TypeScript, Zod, Vite, Tanstack Table, React Hook Form, Python, FastAPI, Postgres, Redis, Interactive Brokers/IB Gateway, RxJS  
  
