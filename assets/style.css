@@ -86,6 +86,10 @@ body {
     border: 1px solid transparent;
 }
 
+.footer {
+    display: none;
+}
+
 @media (min-width: 601px) {
     body {
         padding-left: 50px;
