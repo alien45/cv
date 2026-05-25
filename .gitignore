@@ -1,0 +1,5 @@
+# ignore locally generated pdf file
+Toufiqur_Chowdhury_CV.pdf
+
+# Python env
+.venv

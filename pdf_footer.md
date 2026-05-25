@@ -1,7 +1,10 @@
-## Additional Info
-**Languages:** English (Fluent) | Bangla (Native)  
-**References:** Available on request. See employer recommendations on [LinkedIn](https://linkedin.com/in/toufiq).
+<div id='footer-references'>
+References vailable on request |  
+See employer recommendations on <a href='https://linkedin.com/in/toufiq'>LinkedIn</a>
+</div>
 
 ---
 
-Updated: {{DATE}} | Latest PDF and detailed online CV: [alien45.github.io/cv](https://alien45.github.io/cv)
+<center>
+    Updated: {{DATE}} | For latest PDF and detailed online CV: <a href='https://alien45.github.io/cv'>alien45.github.io/cv</a>
+</center>

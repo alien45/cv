@@ -1,7 +1,7 @@
 import markdown
 from weasyprint import HTML
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Load external header and footer
 with open("pdf_header.md", "r", encoding="utf-8") as f:
@@ -11,7 +11,7 @@ with open("pdf_footer.md", "r", encoding="utf-8") as f:
     pdf_footer = f.read().strip()
 
 # Replace {{DATE}} placeholder with current UTC date
-pdf_footer = pdf_footer.replace("{{DATE}}", datetime.utcnow().strftime("%Y-%m-%d"))
+pdf_footer = pdf_footer.replace("{{DATE}}", datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
 # Load README content
 with open("README.md", "r", encoding="utf-8") as f:
@@ -49,32 +49,37 @@ html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tabl
 style = """
 <style>
   @page {
-    margin: 15mm 10mm;
+    margin: 10mm 10mm;
   }
   body {
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
     padding: 0;
-    max-width: 850px;
-    margin: 0 auto;
+    margin: 0;
   }
   h1, h2, h3 {
     color: #2c3e50;
-    margin: 1em 0 0 0;
+    margin: 0.25em 0 0;
     font-weight: normal;
   }
   h1 {
-    margin-top: -1em;
+    margin-bottom: 0.25em;
+    margin-top: -0.5em;
   }
   h2 {
-    margin: 0.75em 0 0;
+    font-weight: 900;
+    margin: .25em 0 0.1em;
   }
   h3 {
-    margin: 0.75em 0 0;
-    font-weight: 900;
+    font-weight: 600;
+    margin-top: 0.5em;
+    margin-botton: 0.25em
   }
   /* Remove bottom spacing from experience date range */
   h3 + p {
-    margin-bottom: 0;
+    margin: 0.14em 0;
+  }
+  p {
+    margin: 0.25em 0;
   }
   a {
     color: #0366d6;
@@ -87,8 +92,8 @@ style = """
   }
   pre {
     background: #f0f0f0;
-    padding: 10px;
     overflow-x: auto;
+    padding: 10px;
   }
   table {
     width: 100%;
@@ -105,6 +110,8 @@ style = """
     padding-left: 1.2em;
     margin-left: 0;
     margin-bottom: 0.25em;
+    margin-top: 0;
+    margin-bottom: 0;
   }
   ul ul {
     list-style-type: disc;
@@ -116,6 +123,12 @@ style = """
   }
   li {
     margin-bottom: 0.2em;
+  }
+  #footer-references {
+    font-size: 110%;
+    font-weight: 600;
+    margin-top: 1em;
+    text-align: center;
   }
 </style>
 """

@@ -17,7 +17,7 @@
 ## Summary
 
 <p style="text-align: justify;">
-Senior frontend engineer with 8+ years of end-to-end ownership experience - from trading UIs to blockchain DApps to open-source developer tooling. Built and maintained the entire frontend and off-chain backend at Totem as sole developer for 5 years. Creator of @superutils, a TypeScript utility monorepo. Strong in React, TypeScript, real-time systems, and full-stack delivery.
+Senior frontend engineer with 8+ years of end-to-end ownership experience - from trading UIs to blockchain DApps to open-source developer tooling. Built and maintained the entire frontend and off-chain backend at Totem as sole developer for 5 years. Creator of <b>@superutils</b> TypeScript utility monorepo. Strong in React, TypeScript, real-time systems, and full-stack delivery.
 </p>
 
 
@@ -48,12 +48,12 @@ Senior frontend engineer with 8+ years of end-to-end ownership experience - from
 
 **Jul 2025 – Present**  
 
-**Tech:** Typescript, React, RxJS, Vite, Vitest, Vitepress, TypeDoc, Lerna, NPM, CI/CD
+**Tech:** Typescript, React, RxJS, Vite, Vitest, Vitepress, TypeDoc, Lerna, NX, NPM, CI/CD
 
 - Creator and maintainer of a published TypeScript utility monorepo with [4 packages](https://npmjs.com/org/superutils), complete documentation, and full test coverage
 - Built a typed fetch wrapper with automatic retries, timeouts, and cancellable debounced requests, plus [`ApiClient`](https://www.npmjs.com/package/@superutils/fetch#api-client) for isolated per-endpoint instances and [`fetchFunc`](https://www.npmjs.com/package/@superutils/fetch#fetch-func) for compatibility with third-party HTTP libraries
 - Designed an observable data store built on RxJS for reactive, type-safe state management across both Node and browser environments
-- Established consistent API design, strict TypeScript typing, and automated documentation and release pipelines via CI/CD<!-- PDF-IGNORE-START -->
+- Established consistent API design, strict TypeScript typing, and automated documentation<!-- PDF-IGNORE-START -->
   
 This monorepo is the direct, public evolution of [common-utils](https://github.com/totem-tech/common-utils) - an internal 
 cross-stack library built and battle-tested at Totem Live Accounting over 5 years. 
@@ -78,7 +78,7 @@ application. Both packages are isomorphic and ship browser builds via CDN.
  
 - Developed a trade approval, re-/execution, and monitoring UI with batch order queuing, powered by Redis-based quant engine and IB gateway  
 - Fast-tracked Python with AI to ship FastAPI backend using Docker & Postgres  
-- Enabled analytics by exposing backend metrics, execution states, and historical portfolio snapshots  
+- Enabled analytics by using backend metrics, execution states, and historical portfolio snapshots  
 - Wrote an interactive shell script to set up Postgres with reusable, idempotent schema and automated entry of audit logs using Postgres triggers  
 
 
@@ -172,13 +172,13 @@ application. Both packages are isomorphic and ship browser builds via CDN.
   <li>Sole developer of the entire frontend & off-chain Node.js backend for 5 years</li>
   <li>Launched the Crowdloan & Pledge DApp, raising $1M+ in the Polkadot Parachain auction and $83.6K in the pledge round</li>
   <li>Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency</li>
-  <li>Co-designed and implemented BONSAI, an innovative dual on/off-chain proof system using hash anchoring and token-based </li>verification
-  <li>Authored cross-stack library common-utils with reactive hooks, components, CouchDB helpers, and form & API validation -- direct </li>predecessor of @superutils
-  <li>Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & </li>chat
+  <li>Co-designed and implemented BONSAI, an innovative dual on/off-chain proof system using hash anchoring and token-based verification</li>
+  <li>Authored cross-stack library common-utils with reactive hooks, components, CouchDB helpers, and form & API validation - direct predecessor of @superutils</li>
+  <li>Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat</li>
   <li>Marketplace with proposal submission & approval with automated payouts</li>
-  <li>Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement </li>viewer
+  <li>Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement viewer</li>
   <li>Secured inter-microservice communication with TweetNaCl.js and automated CI via GitLab webhooks with source-committed builds</li>
-  <li>Drove user retention and bug discovery through a gamified rewards engine and responsive onboarding</li>
+  <li>Drove user retention and bug discovery using gamified rewards engine and responsive onboarding</li>
   <li><b>Demo:</b> <a href="https://">youtube.com/watch?v=29rViB0SFhA</a> | <b>Open Source:</b> <a href="https://github.com/totem-tech">github.com/totem-tech</a></li>
 </ul>
 
@@ -209,9 +209,9 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 
 - [Halo Info Bot](https://github.com/alien45/halo-info-bot): Discord chatbot in Go for the Halo Platform blockchain and masternode/DEX data  
 - [HaloDEX Chart Feed](https://github.com/alien45/halodex-chart-feed): Real-time TradingView charting data server in Go  
-- [Cloud Connector](https://github.com/alien45/cloud-connector): Tool for syncing data across AWS S3, GCP, and Azure  
+- [Cloud Connector](https://github.com/alien45/cloud-connector): Tool for syncing data across AWS S3, GCP, and Azure  <!-- PDF-IGNORE-START -->
 - Wrote a [PhD research proposal (PDF)](https://alien45.github.io/cv/assets/monash-uni-phd-proposal-blockchain-security.pdf) on security vulnerability detection in blockchain-based systems (unfunded)  
-- Ran a small home GPU crypto mining setup during early Ethereum era  <!-- PDF-IGNORE-START -->
+- Ran a small home GPU crypto mining setup during early Ethereum era  
 - Authored a how-to guide and interactive bash script to setup Halo Platform masternode using VPS  
 
 PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platform. The bot is currently off-line.
@@ -245,9 +245,9 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 **Apr 2016 – Apr 2017**  
 
 - Enabled recurring direct debits and card payments via Ezidebit API on WHMCS  
-- SPA admin dashboard for customer billing and invoicing system using AngularJS, deployed with Docker  
+- Built and deployed a SPA admin dashboard for billing and invoicing using AngularJS and Docker
 - Backend API & microservices using Go, MySQL & RabbitMQ  
-- Programmed automation tools in Go for parsing, formatting and storing telecom provider billing data  
+- Built automation tools in Go for parsing, formatting and storing telecom provider billing data  
 - Co-interviewed, helped onboard and mentored an intern
 
 
@@ -314,20 +314,16 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 
 ## Technical Skills  
 
-**Languages:** JavaScript, TypeScript, Python, Golang, C#, PHP    
-**Frontend:** React, [Tanstack Table](https://tanstack.com/table), [React Hook Form](https://react-hook-form.com/), AngularJS, Redux, [Semantic UI React](https://react.semantic-ui.com/), [Material UI](https://mui.com/material-ui/), [Tailwind](https://tailwindcss.com/), HTML, CSS, Bootstrap, [Stripe API](https://docs.stripe.com/payments)  
-**Backend:** Node.js, [FastAPI](https://fastapi.tiangolo.com/), Express.js, [TweetNaCl.js](https://tweetnacl.js.org/#/), [CouchDB](https://couchdb.apache.org/), Redis, Postgres  
-**Blockchain:** [Polkadot/Substrate](https://polkadot.com/), Web3.js, [Polkadot.js](https://polkadot.js.org/), NFT, DApps  
-**Tools:** [Vite](https://vite.dev/), [Docker](https://www.docker.com/), [Firebase](https://firebase.google.com/docs/firestore/), [Socket.io](https://socket.io/), [RxJS](https://rxjs.dev/), Git, GulpJS, RabbitMQ  
+**Languages:** TypeScript, JavaScript, Python, Golang, C#, PHP    
+**Frontend:** React, Tanstack Table, React Hook Form, Redux, Semantic UI React, Material UI, Tailwind, HTML, CSS, Bootstrap, Stripe API, AngularJS  
+**Backend:** Node.js, FastAPI, Express.js, TweetNaCl.js, CouchDB, Redis, Postgres  
+**Blockchain:** Polkadot/Substrate, Web3.js, Polkadot.js, NFT, DApps  
+**Tools:** Vite, Docker, Firebase, Socket.io, RxJS, Git, GulpJS, RabbitMQ  
 **Other:** REST APIs, Webhooks, Microservices, MVP prototyping, Agile  
+**Languages:** English (Fluent) | Bangla (Native)  
 
 
 <!-- PDF-IGNORE-START -->
-<!-- Languages and References on PDF will be taken from the pdf_footer.md file-->
-## Languages:  
-
-**English:** Fluent | **Bangla**: Native  
-
 
 ## References  
 Available on request  
