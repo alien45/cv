@@ -149,22 +149,19 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 
  <!-- PDF-IGNORE-END -->
 
-<div class='hidden-web'>
-
-- Sole developer of the entire frontend & off-chain Node.js backend for 5 years
-- Launched the Crowdloan & Pledge DApp, raising $1M+ in the Polkadot Parachain auction and $83.6K in the pledge round
-- Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency
-- Co-designed and implemented BONSAI, an innovative dual on/off-chain proof system using hash anchoring and token-based verification
-- Authored cross-stack library common-utils with reactive hooks, components, CouchDB helpers, and form & API validation -- direct predecessor of @superutils
-- Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat
-- Marketplace with proposal submission & approval with automated payouts
-- Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement viewer
-- Secured inter-microservice communication with TweetNaCl.js and automated CI via GitLab webhooks with source-committed builds
-- Drove user retention and bug discovery through a gamified rewards engine and responsive onboarding
-
-**Demo:** youtube.com/watch?v=29rViB0SFhA | **Open Source:** github.com/totem-tech
-
-</div>
+<ul class='hidden-web'>
+  <li>Sole developer of the entire frontend & off-chain Node.js backend for 5 years</li>
+  <li>Launched the Crowdloan & Pledge DApp, raising $1M+ in the Polkadot Parachain auction and $83.6K in the pledge round</li>
+  <li>Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency</li>
+  <li>Co-designed and implemented BONSAI, an innovative dual on/off-chain proof system using hash anchoring and token-based </li>verification
+  <li>Authored cross-stack library common-utils with reactive hooks, components, CouchDB helpers, and form & API validation -- direct </li>predecessor of @superutils
+  <li>Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & </li>chat
+  <li>Marketplace with proposal submission & approval with automated payouts</li>
+  <li>Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement </li>viewer
+  <li>Secured inter-microservice communication with TweetNaCl.js and automated CI via GitLab webhooks with source-committed builds</li>
+  <li>Drove user retention and bug discovery through a gamified rewards engine and responsive onboarding</li>
+  <li>**Demo:** <a href="https://">youtube.com/watch?v=29rViB0SFhA</a> | **Open Source:** <a href="https://github.com/totem-tech">github.com/totem-tech</a></li>
+</ul>
 
 
 <h3 id="exp-omniscape">
