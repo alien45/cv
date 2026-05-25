@@ -59,7 +59,7 @@ style = """
   }
   h1, h2, h3 {
     color: #2c3e50;
-    margin: 1em 0 0.5em 0;
+    margin: 1em 0 0 0;
     font-weight: normal;
   }
   h1 {
@@ -102,16 +102,16 @@ style = """
   }
   ul {
     list-style-type: disc;
-    margin-left: 0.5em;
-    margin-bottom: 0.5em;
+    margin-left: 0.25em;
+    margin-bottom: 0.25em;
   }
   ul ul {
     list-style-type: disc;
-    margin-left: 0.75em;
+    margin-left: 0.50em;
   }
   ul ul ul {
     list-style-type: disc;
-    margin-left: 5em;
+    margin-left: 0.75em;
   }
   li {
     margin-bottom: 0.2em;

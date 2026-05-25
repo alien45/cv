@@ -179,7 +179,7 @@ application. Both packages are isomorphic and ship browser builds via CDN.
   <li>Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement </li>viewer
   <li>Secured inter-microservice communication with TweetNaCl.js and automated CI via GitLab webhooks with source-committed builds</li>
   <li>Drove user retention and bug discovery through a gamified rewards engine and responsive onboarding</li>
-  <li>**Demo:** <a href="https://">youtube.com/watch?v=29rViB0SFhA</a> | **Open Source:** <a href="https://github.com/totem-tech">github.com/totem-tech</a></li>
+  <li><b>Demo:</b> <a href="https://">youtube.com/watch?v=29rViB0SFhA</a> | <b>Open Source:</b> <a href="https://github.com/totem-tech">github.com/totem-tech</a></li>
 </ul>
 
 
@@ -285,7 +285,6 @@ PS: bot name was changed to 'Crypto Price Checker' after shutdown of Halo Platfo
 ## Certifications  
 
 - **Red Hat Certified Engineer - RHCE** (2009) - 91.2% test score
- 
 - **[Apps for Good](https://www.appsforgood.org/)** (2012) - MVP development, team leadership, and final presentation at Facebook London HQ. Sponsored by Facebook & others.<!-- PDF-IGNORE-START -->  
   - Met entrepreneurs including then Managing Director (Europe) of LinkedIn and others.
   - Attended programming bootcamp by Freeformers
