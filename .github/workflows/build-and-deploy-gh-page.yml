@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  generate-pdf:
+  build-and-deploy-gh-page:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -45,13 +45,28 @@ jobs:
           TIMESTAMP=$(date +%s)
           sed -i "s|Toufiqur_Chowdhury_CV.pdf|Toufiqur_Chowdhury_CV.pdf?v=${TIMESTAMP}|g" README.md
 
+      - name: Prepare index.md
+        run: cp README.md index.md
+
+      - name: Prepare LICENSE
+        run: cp LICENSE LICENSE.md
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Copy assets to _site
+        run: cp -r assets ./_site/ || echo "No assets directory found to copy"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
