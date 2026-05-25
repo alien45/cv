@@ -64,7 +64,16 @@ coverage, and backwards compatibility as a first-class constraint from day one.
 The deferred execution model across [@superutils/promise](https://npmjs.com/package/@superutils/promise) and [@superutils/fetch](https://npmjs.com/package/@superutils/fetch) reflects a deliberate design philosophy: async complexity (cancellation, debouncing, timeout, 
 retry) should be composable at the call site, not scattered across components. 
 [PromisE.deferred()](https://www.npmjs.com/package/@superutils/promise#deferred) is the primitive; [fetch.get.deferred()](https://www.npmjs.com/package/@superutils/fetch#fetch-deferred) is the practical 
-application. Both packages are isomorphic and ship browser builds via CDN.    
+application. Both packages are isomorphic and ship browser builds via CDN.   
+
+Repo:
+https://github.com/alien45/superutils
+
+NPM:
+https://www.npmjs.com/org/superutils
+
+Docs:
+https://alien45.github.io/superutils/  
 <!-- PDF-IGNORE-END -->  
 
 
