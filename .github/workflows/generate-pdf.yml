@@ -6,8 +6,20 @@ on:
     paths: ["README.md", ".github/scripts/**"]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   generate-pdf:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
 
     steps:
@@ -28,15 +40,19 @@ jobs:
       - name: Generate PDF
         run: python .github/scripts/md_to_pdf.py
 
-      - name: Overwrite origin with PAT-authenticated remote
+      - name: Add cache buster to README link
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/alien45/cv.git
-          git add Toufiqur_Chowdhury_CV.pdf
+          TIMESTAMP=$(date +%s)
+          sed -i "s|Toufiqur_Chowdhury_CV.pdf|Toufiqur_Chowdhury_CV.pdf?v=${TIMESTAMP}|g" README.md
 
-          # Only commit if PDF has changed
-          git diff --cached --quiet && echo "No changes to commit." && exit 0
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-          git commit -m "Auto-generate PDF from README"
-          git push origin HEAD:main
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
