@@ -71,7 +71,7 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 
 **Mar 2019 – Mar 2024**  
 
-**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, Blockchain, Socket.io, Semantic UI React, Material UI, TweetNaCl.js, Stripe API, RxJS  
+**Tech:** JavaScript, React, Node.js, CouchDB, Polkadot.js, Blockchain, Socket.io, Semantic UI React, Material UI, TweetNaCl.js, Stripe API, RxJS  <!-- PDF-IGNORE-START -->
 
 **Core Contributions:**  
 
@@ -80,11 +80,10 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 - Marketplace with proposal submission & approval with automated payouts  
 - Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat  
 - Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency  
-- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification.<!-- PDF-IGNORE-START -->
+- Co-designed and implemented **BONSAI**, an innovative dual on/off-chain proof system using hash anchoring and token-based verification.
 
   ><b>BONSAI:</b> Blockchainization of NoSQL Storage Authorization & Identification. In other words, a decentralized 2 Factor Authentication mechanism with full control over exactly what is being done/stored.
-
-<!-- PDF-IGNORE-END -->  
+  
 - Launched the Crowdloan & Pledge DApp, raising $1+M in the Polkadot Parachain auction and $83.6K in the pledge round  
 - Secured & encrypted inter-microservice communication with [TweetNaCl.js](https://tweetnacl.js.org)  
 - Authored cross-stack library `common-utils` with Reactive hooks, components, JSON storage & CouchDB helper and form + API data validation library  
@@ -103,7 +102,7 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 **Demo Of My Work:**
 [Totem.Live DApp](https://youtube.com/watch?v=29rViB0SFhA) | 
 [Crowdloan DApp](https://www.youtube.com/watch?v=qBLskkm0iDk&t=61s) | 
-[Polkadot Decoded](https://www.youtube.com/watch?v=FzqX41_ga2I&t=580s)  <!-- PDF-IGNORE-START --> 
+[Polkadot Decoded](https://www.youtube.com/watch?v=FzqX41_ga2I&t=580s) 
 
 <a
   class="inline-block width-33p overlay-icon video"
@@ -124,11 +123,11 @@ application. Both packages are isomorphic and ship browser builds via CDN.
   <img src="assets/totem/decoded2022-presentation-thumb.jpg" />
 </a>
 
-<!-- PDF-IGNORE-END -->
 **Podcasts:** 
 [Totem Tech Talks](https://www.youtube.com/@totemliveaccounting1312/search?query=tech%20talks) | 
 [RelayChain](https://www.youtube.com/watch?v=ceTPR3oY5RA) | 
-[Parity & Friends](https://www.youtube.com/live/pryr8DmVMlM?si=sKsGoO7CnRgpJ6mw&t=3080)  <!-- PDF-IGNORE-START -->  
+[Parity & Friends](https://www.youtube.com/live/pryr8DmVMlM?si=sKsGoO7CnRgpJ6mw&t=3080)  
+
 <a class="inline-block width-33p overlay-icon video" href="https://www.youtube.com/watch?v=ceTPR3oY5RA">
   <img src="assets/totem/tech-talks-thumb.jpg" />
 </a>
@@ -142,12 +141,30 @@ application. Both packages are isomorphic and ship browser builds via CDN.
   <img src="assets/totem/parity-and-friends-thumb.jpg" />
 </a>
 
-<!-- PDF-IGNORE-END -->
 **Open Source:** 
  [Totem UI](https://github.com/totem-tech/totem-ui), 
  [Message Service](https://github.com/totem-tech/totem-message-service), 
  [Common Utils](https://github.com/totem-tech/common-utils)
  and [others](https://github.com/totem-tech)  
+
+ <!-- PDF-IGNORE-END -->
+
+<div class='hidden-web'>
+
+- Sole developer of the entire frontend & off-chain Node.js backend for 5 years
+- Launched the Crowdloan & Pledge DApp, raising $1M+ in the Polkadot Parachain auction and $83.6K in the pledge round
+- Engineered a sequential & resumable on/off-chain transaction queue with history UI for debugging and transparency
+- Co-designed and implemented BONSAI, an innovative dual on/off-chain proof system using hash anchoring and token-based verification
+- Authored cross-stack library common-utils with reactive hooks, components, CouchDB helpers, and form & API validation -- direct predecessor of @superutils
+- Streamlined user onboarding flow with signup, faucet, backup & diff-aware selective restore system and in-app notifications & chat
+- Marketplace with proposal submission & approval with automated payouts
+- Built core DApp modules including in-app blockchain wallet, partner & team management, timekeeping, and financial statement viewer
+- Secured inter-microservice communication with TweetNaCl.js and automated CI via GitLab webhooks with source-committed builds
+- Drove user retention and bug discovery through a gamified rewards engine and responsive onboarding
+
+**Demo:** youtube.com/watch?v=29rViB0SFhA | **Open Source:** github.com/totem-tech
+
+</div>
 
 
 <h3 id="exp-omniscape">

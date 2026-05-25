@@ -5,7 +5,11 @@ body {
     margin: auto;
 }
 
-.markdown-body > h1:first-child {
+.hidden-web {
+    display: none
+}
+
+.markdown-body>h1:first-child {
     border: none;
     margin-bottom: 0;
 }
