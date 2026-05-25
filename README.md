@@ -349,6 +349,6 @@ Available on request
 See employer recommendations on [LinkedIn](https://linkedin.com/in/toufiq). 
 
 ---
-**License:** [Creative Commons Zero v1.0 Universal](https://alien45.github.io/cv/LICENSE)
+**License:** [Creative Commons Zero v1.0 Universal](https://alien45.github.io/cv/LICENSE.html)
 
 <!-- PDF-IGNORE-END -->  

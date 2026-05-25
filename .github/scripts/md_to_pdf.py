@@ -49,7 +49,7 @@ html_content = markdown.markdown(full_markdown, extensions=["fenced_code", "tabl
 style = """
 <style>
   @page {
-    margin: 15mm 15mm;
+    margin: 15mm 10mm;
   }
   body {
     font-family: sans-serif;
@@ -102,16 +102,17 @@ style = """
   }
   ul {
     list-style-type: disc;
-    margin-left: 0.25em;
+    padding-left: 1.2em;
+    margin-left: 0;
     margin-bottom: 0.25em;
   }
   ul ul {
     list-style-type: disc;
-    margin-left: 0.50em;
+    padding-left: 1.2em;
   }
   ul ul ul {
     list-style-type: disc;
-    margin-left: 0.75em;
+    padding-left: 1.2em;
   }
   li {
     margin-bottom: 0.2em;
