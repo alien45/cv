@@ -1,5 +1,5 @@
 <div id='footer-references'>
-References vailable on request |  
+References available on request |  
 See employer recommendations on <a href='https://linkedin.com/in/toufiq'>LinkedIn</a>
 </div>
 
