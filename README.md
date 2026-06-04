@@ -17,7 +17,7 @@
 ## Summary
 
 <p style="text-align: justify;">
-Senior frontend engineer with 8+ years of end-to-end ownership experience - from trading UIs to blockchain DApps to open-source developer tooling. Built and maintained the entire frontend and off-chain backend at Totem as sole developer for 5 years. Creator of <b>@superutils</b> TypeScript utility monorepo. Strong in React, TypeScript, real-time systems, and full-stack delivery.
+Senior full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the entire frontend and off-chain backend at Totem Live Accounting for 5 years, including a crowdloan DApp that <b>raised $1M+</b> in a Polkadot parachain auction. Shipped production systems across telecom, fintech, Web3, and quant trading. Creator of <b>@superutils</b>, a TypeScript utility monorepo built on 5 years of battle-tested internals.
 </p>
 
 
@@ -121,7 +121,9 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 - Boosted user retention, social engagement & bug discovery through gamified rewards engine and responsive onboarding  
 - Launched and ran the Totem Ambassador Program  
 - Led multilingual Telegram and Twitter engagement, doubling community engagement and improving support across 6+ language groups  
-- Provided user support by in-app chat, socials and feature walk-throughs  
+- Provided user support by in-app chat, socials and feature walk-throughs
+
+*Project hit OutOfFundsException, exited with 0.*
  
 **Demo Of My Work:**
 [Totem.Live DApp](https://youtube.com/watch?v=29rViB0SFhA) | 
