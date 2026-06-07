@@ -199,7 +199,7 @@ application. Both packages are isomorphic and ship browser builds via CDN.
 
 **May 2021 – Jan 2022**  
 
-**Tech:** JavaScript, React, Node.js, Firestore, Firebase Functions, NFT, Web3, Stripe API
+**Tech:** JavaScript, React, NodeJS, Firebase Functions, Firestore, Serverless, NFT, Web3, Stripe API
 
 - Built the tokenization engine for virtual real estate assets  
 - Integrated Stripe and Web3 payment flows  
