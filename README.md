@@ -17,7 +17,7 @@
 ## Summary
 
 <p style="text-align: justify;">
-Senior full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the entire frontend and off-chain backend at Totem Live Accounting for 5 years, including a crowdloan DApp that <b>raised $1M+</b> in a Polkadot parachain auction. Shipped production systems across telecom, fintech, Web3, and quant trading. Creator of <b>@superutils</b>, a TypeScript utility monorepo built on 5 years of battle-tested internals.
+Full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the entire frontend and off-chain backend at Totem Live Accounting for 5 years, including a crowdloan DApp that <b>raised $1M+</b> in a Polkadot parachain auction. Shipped production systems across telecom, fintech, Web3, and quant trading. Creator of <b>@superutils</b>, a TypeScript utility monorepo built on 5 years of battle-tested internals.
 </p>
 
 
