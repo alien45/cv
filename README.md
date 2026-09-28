@@ -54,17 +54,12 @@ Full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the
 - Built a typed fetch wrapper with automatic retries, timeouts, and cancellable debounced requests, plus [`ApiClient`](https://www.npmjs.com/package/@superutils/fetch#api-client) for isolated per-endpoint instances
 - Designed an observable data store built on RxJS for reactive, type-safe state management across both Node and browser environments
 - Established consistent API design, strict TypeScript typing, and automated documentation<!-- PDF-IGNORE-START -->
-  
-This monorepo is the direct, public evolution of [common-utils](https://github.com/totem-tech/common-utils) - an internal 
-cross-stack library built and battle-tested at Totem Live Accounting over 5 years. 
-Where common-utils solved immediate product needs, @superutils is its intentional 
-rewrite for public consumption: clean APIs, complete documentation, full test 
-coverage, and backwards compatibility as a first-class constraint from day one. 
 
-The deferred execution model across [@superutils/promise](https://npmjs.com/package/@superutils/promise) and [@superutils/fetch](https://npmjs.com/package/@superutils/fetch) reflects a deliberate design philosophy: async complexity (cancellation, debouncing, timeout, 
-retry) should be composable at the call site, not scattered across components. 
-[PromisE.deferred()](https://www.npmjs.com/package/@superutils/promise#deferred) is the primitive; [fetch.get.deferred()](https://www.npmjs.com/package/@superutils/fetch#fetch-deferred) is the practical 
-application. Both packages are isomorphic and ship browser builds via CDN.   
+- **Key NPM Packages:**
+    - **@superutils/expo-binary-module:** An Expo native module for running and managing long-running native binaries on Android.
+    - **@superutils/fetch:** A lightweight `fetch` wrapper for browsers and Node.js, designed to simplify data fetching and reduce boilerplate.
+    - **@superutils/promise:** An extended Promise with additional features such as status tracking, deferred/throttled execution, timeout and retry mechanism.
+    - **@superutils/store:** A generic, reactive, persistent and fully-typed Map-like data store with advanced search, filtering, and sorting capabilities.
 
 <b>Links:</b> 
 [Open Source](https://github.com/alien45/superutils) |
