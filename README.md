@@ -43,7 +43,7 @@ Full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the
 <h2 id="experience">Experience</h2>  
 
 <h3 id="exp-superutils">
-  <a href="https://github.com/alien45/superutils">@superutils</a> - Open Source Developer and Maintainer (Remote)
+  <a href="https://alien45.github.io/superutils/">@superutils</a> - Open Source Developer and Maintainer (Remote)
 </h3>  
 
 **Jul 2025 – Present**  
@@ -56,10 +56,10 @@ Full-stack engineer with 8+ years of end-to-end ownership. Sole developer of the
 - Established consistent API design, strict TypeScript typing, and automated documentation<!-- PDF-IGNORE-START -->
 
 - **Key NPM Packages:**
-    - **@superutils/expo-binary-module:** An Expo native module for running and managing long-running native binaries on Android.
-    - **@superutils/fetch:** A lightweight `fetch` wrapper for browsers and Node.js, designed to simplify data fetching and reduce boilerplate.
-    - **@superutils/promise:** An extended Promise with additional features such as status tracking, deferred/throttled execution, timeout and retry mechanism.
-    - **@superutils/store:** A generic, reactive, persistent and fully-typed Map-like data store with advanced search, filtering, and sorting capabilities.
+    - **[@superutils/expo-binary-module:](https://alien45.github.io/superutils/packages/@superutils/expo-binary-module/)** An Expo native module for running and managing long-running native binaries on Android.
+    - **[@superutils/fetch:](https://alien45.github.io/superutils/packages/@superutils/fetch/)** A lightweight `fetch` wrapper for browsers and Node.js, designed to simplify data fetching and reduce boilerplate.
+    - **[@superutils/promise:](https://alien45.github.io/superutils/packages/@superutils/promise)** An extended Promise with additional features such as status tracking, deferred/throttled execution, timeout and retry mechanism.
+    - **[@superutils/store:](https://alien45.github.io/superutils/packages/@superutils/store)** A generic, reactive, persistent, fully-typed Map-like data store for Node.js and React, with advanced search, filtering, and sorting capabilities.
 
 <b>Links:</b> 
 [Open Source](https://github.com/alien45/superutils) |
